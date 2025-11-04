@@ -9,5 +9,8 @@ if ($path !== '/' && file_exists($file)) {
     return false;
 }
 
-// Aksi halde tüm istekleri index.php'ye yönlendir:
+// URL’yi al ve GET parametresi gibi hazırla
+$_GET['url'] = trim($path, '/');
+
+// Tüm istekleri index.php’ye yönlendir:
 require_once __DIR__ . '/index.php';

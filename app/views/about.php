@@ -1,7 +1,3 @@
-@{
-    ViewData["Title"] = "Hakkımızda";
-}
-
 <!-- SUB BANNER SECTION START -->
     <section class="sub-banner-section about-page-banner w-100 float-left d-flex align-items-center">
         <div class="container">

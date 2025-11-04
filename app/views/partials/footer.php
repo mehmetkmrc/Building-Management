@@ -5,7 +5,7 @@
                 <div class="footer-logo-con">
                     <a href="index.html">
                         <figure>
-                            <img src="assets/images/header-logo.png" alt="header-logo" loading="lazy">
+                            <img src="public/assets/images/header-logo.png" alt="header-logo" loading="lazy">
                         </figure>
                     </a>
                     <p>Welcome to our consultancy agency. Lore ipsum simply text amet cing elit.</p>

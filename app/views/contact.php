@@ -17,11 +17,11 @@
             <div class="cases-inner-section" data-aos="fade-up" data-aos-duration="700">
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="assets/images/contact-case-img1.jpg" alt="contact-case-img1" loading="lazy">
+                        <img src="/public/assets/images/contact-case-img1.jpg" alt="contact-case-img1" loading="lazy">
                     </figure>
                     <div class="case-text-box">
                         <figure>
-                            <img src="assets/images/phone-img.png" alt="phone-img" loading="lazy">
+                            <img src="public/assets/images/phone-img.png" alt="phone-img" loading="lazy">
                         </figure>
                         <span>CALL 24/7</span>
                         <a href="tel:+61383766284">+61 3 8376 6284</a>
@@ -29,11 +29,11 @@
                 </div>
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="assets/images/contact-case-img2.jpg" alt="contact-case-img2" loading="lazy">
+                        <img src="public/assets/images/contact-case-img2.jpg" alt="contact-case-img2" loading="lazy">
                     </figure>
                     <div class="case-text-box">
                         <figure>
-                            <img src="assets/images/mail-img.png" alt="mail-img" loading="lazy">
+                            <img src="public/assets/images/mail-img.png" alt="mail-img" loading="lazy">
                         </figure>
                         <span>MORE INFO</span>
                         <a href="mailto:Info@consultking.om">Info@consultking.om</a>
@@ -41,11 +41,11 @@
                 </div>
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="assets/images/contact-case-img3.jpg" alt="contact-case-img3" loading="lazy">
+                        <img src="public/assets/images/contact-case-img3.jpg" alt="contact-case-img3" loading="lazy">
                     </figure>
                     <div class="case-text-box location-box">
                         <figure>
-                            <img src="assets/images/location-img.png" alt="location-img" loading="lazy">
+                            <img src="public/assets/images/location-img.png" alt="location-img" loading="lazy">
                         </figure>
                         <span>CALL 24/7</span>
                         <p class="mb-0">21 King Street Melbourne,
