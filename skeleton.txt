@@ -1,0 +1,31 @@
+building-management/
+│
+├──app/
+│   ├──controllers/
+│   │   ├──BlogController.php
+|   |   ├──CasesController.php
+|   |   ├──ServicesController.php
+|   |   └──HomeController.php
+│   |──models/
+│   |
+|   ├──views/
+|   │   ├──layouts/
+|   │   │   └── main.php          ← tüm sayfaların ortak layout'u
+|   │   ├──partials/
+|   |   |   ├──footer.php
+|   |   |   └──header.php             ← header, footer, navbar gibi küçük parçalar
+|   │   └──pages/
+|   │       ├── home.php
+|   │       ├── about.php
+|   |       ├── blog.php
+|   |       ├── cases.php
+|   |       ├── services.php
+|   │       └── contact.php
+│   └──core/
+|       ├──App.php
+|       └──Controller.php
+├──public/
+│   ├── assets/
+│   └── js/
+├──.htaccess
+└──index.php
