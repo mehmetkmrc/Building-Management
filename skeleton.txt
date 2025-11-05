@@ -8,24 +8,31 @@ building-management/
 |   |   └──HomeController.php
 │   |──models/
 │   |
-|   ├──views/
-|   │   ├──layouts/
-|   │   │   └── main.php          ← tüm sayfaların ortak layout'u
-|   │   ├──partials/
-|   |   |   ├──footer.php
-|   |   |   └──header.php             ← header, footer, navbar gibi küçük parçalar
-|   │   └──pages/
-|   │       ├── home.php
-|   │       ├── about.php
-|   |       ├── blog.php
-|   |       ├── cases.php
-|   |       ├── services.php
-|   │       └── contact.php
-│   └──core/
-|       ├──App.php
-|       └──Controller.php
-├──public/
+|   └──views/
+|      ├──layouts/
+|      │   └── main.php          ← tüm sayfaların ortak layout'u
+|      ├──partials/
+|      |   ├──footer.php
+|      |   └──header.php             ← header, footer, navbar gibi küçük parçalar
+|      ├── home.php
+|      ├── about.php
+|      ├── blog.php
+|      ├── cases.php
+|      ├── services.php
+|      └── contact.php
+├──core/
+|   ├──App.php
+|   └──Controller.php
+├──
+|   ├──.htaccess
 │   ├── assets/
-│   └── js/
-├──.htaccess
+|   |      ├──bootstrap/
+|   |      ├──css/
+|   |      ├──images/
+|   |      └──js/
+|   |
+|   |
+│   └── Ornek HTML dosyaları/
+├──router.php
+|
 └──index.php

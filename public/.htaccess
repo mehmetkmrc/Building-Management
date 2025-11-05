@@ -1,7 +1,12 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /building-management/
+    RewriteBase /
+
+    # assets, images, js, css klasörlerine yönlendirme yapma
+    RewriteCond %{REQUEST_URI} !^/(assets|images|js|css)/
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Diğer tüm istekleri index.php'ye yönlendir
     RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
 </IfModule>
