@@ -4,7 +4,7 @@
             <nav class="navbar navbar-expand-lg navbar-light p-0">
                 <a class="navbar-brand" href="/">
                     <figure class="mb-0">
-                        <img src="public/assets/images/header-logo.png" alt="header-logo" loading="lazy">
+                        <img src="public/assets/images/logo-header-1.png" alt="header-logo" loading="lazy">
                     </figure>
                 </a>
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
@@ -17,7 +17,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link p-0 active" href="/">HOME</a>
+                            <a class="nav-link p-0" href="/">HOME</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link p-0" href="/services">SERVICES</a>

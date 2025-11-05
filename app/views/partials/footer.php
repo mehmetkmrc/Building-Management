@@ -5,7 +5,7 @@
                 <div class="footer-logo-con">
                     <a href="index.html">
                         <figure>
-                            <img src="public/assets/images/header-logo.png" alt="header-logo" loading="lazy">
+                            <img src="public/assets/images/logo-footer-1.png" alt="header-logo" loading="lazy">
                         </figure>
                     </a>
                     <p>Welcome to our consultancy agency. Lore ipsum simply text amet cing elit.</p>
@@ -50,7 +50,7 @@
                 </div>
             </div>
             <div class="footer-copyright-con">
-                <p>© Copyright 2024 by consultking.com</p>
+                <p>© Copyright 2024 by kalkedonyonetim.com</p>
                 <div class="header-social-links">
                     <ul class="list-unstyled mb-0 d-flex align-items-center">
                         <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a></li>

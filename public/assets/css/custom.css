@@ -2,11 +2,11 @@
 
 
 :root {
-    --primary-color: #fff;
-    --secondary-color: #0f0d1d;
-    --accent: #8f8da0;
-    --text-color: #726f84;
-    --button-color: #3c72fc;
+    --primary-color: #ffffff;
+    --secondary-color: #1d1d0d;
+    --accent: #9da08d;
+    --text-color: #82846f;
+    --button-color: #fcb93c;
 }
 
 * {
@@ -127,12 +127,12 @@ a:hover {
     width: 30px;
     height: 30px;
     border-radius: 100%;
-    background: #a7a5b3;
+    background: #b3b0a5;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 16px;
-    color: #55545e;
+    color: #5e5d54;
 }
 
 .header-social-links ul li a:hover {
@@ -306,7 +306,7 @@ a:hover {
 /* banner section styling end here */
 /* consulting services section styling start here */
 .consulting-services-section {
-    background: #f2f4f8;
+    background: #f8f8f2;
     position: relative;
 }
 
@@ -424,7 +424,7 @@ a:hover {
 }
 
 .skills {
-    background-color: #f2f4f8;
+    background-color: #f8f7f2;
     width: 100%;
     height: 19px;
     position: relative;
@@ -648,7 +648,7 @@ a:hover {
     line-height: 24px;
     padding: 22px;
     color: var(--button-color);
-    background: rgb(60 114 252 / 20%);
+    background: rgba(252, 201, 60, 0.2);
 }
 
 .characteristics-box2 {
@@ -708,7 +708,7 @@ a:hover {
 }
 
 .cases-section {
-    background: #f2f4f8;
+    background: #f8f8f2;
     padding-top: 210px;
 }
 
@@ -767,7 +767,7 @@ a:hover {
 .faq-box .card .btn,
 .faq-box .card .btn.collapsed {
     color: var(--secondary-color);
-    background: #f2f4f8;
+    background: #f8f8f2;
     width: 100%;
     text-align: left;
     border: 0;
@@ -802,7 +802,7 @@ a:hover {
 
 .faq-box .card {
     margin-bottom: 10px;
-    border: 1px solid #f2f4f8;
+    border: 1px solid #f8f7f2;
 }
 
 .faq-box .card:last-child {
@@ -904,7 +904,7 @@ a:hover {
 /* customer slider section styling start here */
 .customer-slider-section {
     position: relative;
-    background: #f2f4f8;
+    background: #f8f8f2;
 }
 
 .customer-slider-section::before {
@@ -1041,7 +1041,7 @@ a:hover {
 
 .progress-counter-section::before {
     content: "";
-    background: rgb(15 13 29 / 80%);
+    background: rgba(29, 27, 13, 0.8);
     width: 100%;
     height: 100%;
     position: absolute;
@@ -1388,7 +1388,7 @@ a:hover {
 
 .subscription-con {
     padding: 30px 20px 36px;
-    background: #141734;
+    background: #343114;
 }
 
 .subscription-con p {
@@ -2166,7 +2166,7 @@ a:hover {
 }
 
 .blog-tabs-section {
-    background: #f2f4f8;
+    background: #f8f8f2;
 }
 
 .single-blog-box {
@@ -2204,7 +2204,7 @@ a:hover {
     font-size: 16px;
     line-height: 18px;
     padding-left: 20px;
-    color: #77808b;
+    color: #8b8777;
 }
 
 .single-blog-details ul li i {
@@ -2340,21 +2340,21 @@ a:hover {
 
 @-webkit-keyframes spineer {
     from {
-        box-shadow: 0 0 0 0 rgb(60, 114, 252, .99)
+        box-shadow: 0 0 0 0 rgba(249, 252, 60, 0.99)
     }
 
     to {
-        box-shadow: 0 0 0 25px rgb(53, 0, 252, .01)
+        box-shadow: 0 0 0 25px rgba(235, 252, 0, 0.01)
     }
 }
 
 @keyframes spineer {
     from {
-        box-shadow: 0 0 0 0 rgb(60, 114, 252, .99)
+        box-shadow: 0 0 0 0 rgba(249, 252, 60, 0.99)
     }
 
     to {
-        box-shadow: 0 0 0 25px rgb(53, 0, 252, .01)
+        box-shadow: 0 0 0 25px rgba(214, 252, 0, 0.01)
     }
 }
 
