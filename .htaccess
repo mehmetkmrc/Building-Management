@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Fiziksel dosya veya klasör varsa direkt göster
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # Diğer tüm istekleri index.php’ye yönlendir, URL’yi parametre olarak aktar
+    RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
+</IfModule>

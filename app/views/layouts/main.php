@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="apple-touch-icon" sizes="57x57" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="apple-touch-icon" sizes="60x60" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="apple-touch-icon" sizes="72x72" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="apple-touch-icon" sizes="76x76" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="apple-touch-icon" sizes="114x114" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="apple-touch-icon" sizes="120x120" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="apple-touch-icon" sizes="144x144" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="apple-touch-icon" sizes="152x152" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="apple-touch-icon" sizes="180x180" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="icon" type="jpg" sizes="192x192" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="icon" type="jpg" sizes="32x32" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="icon" type="jpg" sizes="96x96" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="icon" type="jpg" sizes="16x16" href="/public/assets/images/favicon/icon.jpg">
-    <link rel="manifest" href="/public/assets/images/favicon/manifest.json">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="icon" type="jpg" sizes="192x192" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="icon" type="jpg" sizes="32x32" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="icon" type="jpg" sizes="96x96" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="icon" type="jpg" sizes="16x16" href="https://www.kalkedonyonetim.com/icon.jpg">
+    <link rel="manifest" href="https://www.kalkedonyonetim.com/public/assets/images/favicon/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">

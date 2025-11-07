@@ -5,7 +5,7 @@
                 <div class="footer-logo-con">
                     <a href="index.html">
                         <figure>
-                            <img src="/public/assets/images/logo-footer-1.png" alt="header-logo" loading="lazy">
+                            <img src="https://www.kalkedonyonetim.com/logo-footer-1.png" alt="header-logo" loading="lazy">
                         </figure>
                     </a>
                     <p>Welcome to our consultancy agency. Lore ipsum simply text amet cing elit.</p>
