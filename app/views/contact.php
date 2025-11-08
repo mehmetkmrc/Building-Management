@@ -73,7 +73,7 @@
             <div class="sub-page-form" data-aos="fade-up" data-aos-duration="700">
                 <form class="form-box" method="post" action="https://formsubmit.co/info@kalkedonyonetim.com" id="contactpage">
                     <!-- FormSubmit ayarları -->
-                    <input type="hidden" name="_next" value="http://localhost:8000/contact">
+                    <input type="hidden" name="_next" value="https://www.kalkedonyonetim.com/contact">
                     <input type="hidden" name="_captcha" value="false">
                     
                     <ul class="list-unstyled">
