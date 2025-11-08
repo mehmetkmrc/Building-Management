@@ -71,17 +71,22 @@
                 <p>Müşterilerimizin işlerini yenilemelerine yardımcı oluyoruz</p>
             </div>
             <div class="sub-page-form" data-aos="fade-up" data-aos-duration="700">
-                <form class="form-box" method="post" id="contactpage">
+                <form class="form-box" method="post" action="https://formsubmit.co/info@kalkedonyonetim.com" id="contactpage">
+                    <!-- FormSubmit ayarları -->
+                    <input type="hidden" name="_next" value="http://localhost:8000/contact">
+                    <input type="hidden" name="_captcha" value="false">
+                    
                     <ul class="list-unstyled">
-                        <li><input type="text" name="fname" id="fname" placeholder="Adınız:"></li>
-                        <li><input type="email" name="email" id="email" placeholder="E-posta:"></li>
+                        <li><input type="text" name="fname" id="fname" placeholder="Adınız:" required></li>
+                        <li><input type="email" name="email" id="email" placeholder="E-posta:" required></li>
                         <li><input type="tel" name="phone" id="phone" placeholder="Telefon:"></li>
-                        <li><textarea name="subject" id="subject" placeholder="Mesajınızı buraya yazın..."></textarea></li>
+                        <li><textarea name="subject" id="subject" placeholder="Mesajınızı buraya yazın..." required></textarea></li>
                     </ul>
                     <div class="submit-btn">
                         <button type="submit" id="submit">GÖNDER</button>
                     </div>
                 </form>
+
             </div>
         </div>
 
