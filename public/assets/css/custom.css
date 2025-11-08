@@ -5,8 +5,8 @@
     --primary-color: #ffffff;
     --secondary-color: #1d1d0d;
     --accent: #9da08d;
-    --text-color: #82846f;
-    --button-color: #fcb93c;
+    --text-color: #917d0e;
+    --button-color: #D1C5B5;
 }
 
 * {
@@ -114,8 +114,8 @@ a:hover {
 
 .header-main-con .navbar-collapse {
     justify-content: space-between;
-    padding: 40px 45px 41px 65px;
-    border-left: 1px solid rgb(255 255 255 / 30%);
+    padding: 40px 45px 41px 195px;
+    border-left: 0px solid rgb(255 255 255 / 30%);
     border-right: 1px solid rgb(255 255 255 / 30%);
 }
 

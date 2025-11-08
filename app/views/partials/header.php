@@ -1,12 +1,18 @@
 <!-- HEADER SECTION START-->
-    <div class="header-main-con w-100 float-left">
+    <div class="header-main-con w-100 float-left" style="background-color: #D1C5B5; ">
         <div class="container-fluid">
-            <nav class="navbar navbar-expand-lg navbar-light p-0">
-                <a class="navbar-brand" href="/">
-                    <figure class="mb-0">
-                        <img src="https://www.kalkedonyonetim.com/logo-header-1.png" alt="header-logo" loading="lazy">
+            <nav class="navbar navbar-expand-lg navbar-light p-0">       
+                    <figure class="mb-0" style="display: flex; align-items: center; gap: 10px; margin: 0;">
+                    <img href="/" src="https://www.kalkedonyonetim.com/icon-3.png" 
+                        alt="header-logo" 
+                        loading="lazy" 
+                        style="width: 60px; height: auto;">
+                        
+                    <div style="display: flex; flex-direction: column; line-height: 1;">
+                        <a href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size: 33px;">KALKEDON</a>
+                        <a href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size: 14px;">YÖNETİM & DANIŞMANLIK</a>
+                    </div>
                     </figure>
-                </a>
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="Toggle navigation">
@@ -17,35 +23,24 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="/">Ana Sayfa</a>
+                            <a class="nav-link p-0" href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">Ana Sayfa</a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-link p-0" href="/about" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">Hakkımızda</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="/services">Hizmetlerimiz</a>
+                            <a class="nav-link p-0" href="/services" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">Hizmetlerimiz</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link p-0" href="/about">Hakkımızda</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle p-0 " href="#" id="navbarDropdown5" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Sayfalar
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
-                                <a class="dropdown-item " href="single-case.html">Tek Dava</a>
-                                <a class="dropdown-item" href="single-service.html">Tek Hizmet</a>
-                                <a class="dropdown-item" href="faq.html">Sıkça Sorulan Sorular</a>
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link p-0" href="/cases">Projeler</a>
-                        </li>
+                       
+                        
+                      
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle p-0" href="/blog" id="navbarDropdown4" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">
                                 Bloglar
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
-                                <a class="dropdown-item" href="blog.html">Blog</a>
+                                <a class="dropdown-item" href="blog.html" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 20px">Blog</a>
                                 <a class="dropdown-item" href="load-more.html">Daha Fazla Yükle</a>
                                 <a class="dropdown-item" href="single-blog.html">Tek Blog</a>
                                 <a class="dropdown-item" href="one-column.html">Tek Sütun</a>
@@ -57,7 +52,7 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="/contact">İletişim</a>
+                            <a class="nav-link p-0" href="/contact" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">İletişim</a>
                         </li>
                     </ul>
                     <div class="header-social-links">
@@ -72,16 +67,16 @@
                     </div>
                 </div>
                 <div class="nav-btns d-flex align-items-center">
-                    <div class="search-btn">
-                        <a href="#">
-                            <figure class="mb-0"><img src="public/assets/images/Search-icon.png" alt="Search-icon"
-                                    loading="lazy"></figure>
-                        </a>
-                    </div>
+                    
                     <div class="contact-expert">
                         <a href="tel:+905378503434">
-                            <span class="d-block">Bize danışın</span>
-                            +90 537 850 34 34
+                            <span class="d-block" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;font-size: 20px;">Bize Ulaşın</span>
+                             <div style="display: flex; flex-direction: column; line-height: 1;">
+                                <a href="tel:+905378503434" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;">+90 537 850 34 34</a>
+                                <a href="mailto:info@kalkedonyonetim.com" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;">info@kalkedonyonetim.com</a>
+                            </div>
+                            
+                           
                         </a>
                     </div>
                 </div>
