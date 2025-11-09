@@ -4,27 +4,20 @@
         <div class="footer-inner-section">
             <div class="footer-logo-con">
                 <a href="index.html">
-                    <figure>
-                        <img src="https://www.kalkedonyonetim.com/logo-footer-1.png" alt="footer-logo" loading="lazy">
+                    <figure class="mb-0" style="display: flex; align-items: center; gap: 10px; margin: 0;">
+                    <img href="/" src="https://www.kalkedonyonetim.com/icon-kopya-2.png" 
+                        alt="header-logo" 
+                        loading="lazy" 
+                        style="width: 90px; height: 90px;">
+                        
+                    <div style="display: flex; flex-direction: column; line-height: 1;">
+                        <a href="/" style="color: #ffffffff; font-family: 'Cinzel', serif; font-weight:900; font-size: 34px;">KALKEDON</a>
+                        <a href="/" style="color: #ffffffff; font-family: 'Cinzel', serif; font-weight:900; font-size: 14.5px;">YÖNETİM & DANIŞMANLIK</a>
+                    </div>
                     </figure>
                 </a>
-                <p>Danışmanlık ajansımıza hoş geldiniz. Bina yönetimi için doğru yerdesiniz.</p>
-                <div class="footer-contact-details">
-                    <ul class="list-unstyled">
-                        <li class="position-relative">
-                            <i class="fas fa-phone-alt"></i> 
-                            <a href="tel:+905378503434">+90 537 850 34 34</a>
-                        </li>
-                        <li class="position-relative">
-                            <i class="fas fa-envelope"></i> 
-                            <a href="mailto:Info@kalkedonyonetim.com">Info@kalkedonyonetim.com</a>
-                        </li>
-                        <li class="position-relative">
-                            <i class="fas fa-map-marker-alt"></i> 
-                            Topkapı, Emlak Kredi Blokları F-1 Blok Daire: 11, <br> 34250 Fatih/İstanbul
-                        </li>
-                    </ul>
-                </div>
+                <p style="font-size: 18px;">Danışmanlık ajansımıza hoş geldiniz. Bina yönetimi için doğru yerdesiniz.</p>
+                
             </div>
 
             <div class="footer-links-box">
@@ -45,21 +38,27 @@
                     </ul>
                 </div>
             </div>
-
-            <div class="footer-newsletter-con">
-                <h4>BÜLTEN</h4>
-                <div class="subscription-con">
-                    <p>En son makaleler ve kaynaklar için abone olun</p>
-                    <div class="subs-register-con">
-                        <input type="text" placeholder="E-posta adresi">
-                        <button>KAYDOL</button>
-                    </div>
+            <div class="footer-contact-details">
+                    <ul class="list-unstyled">
+                        <li class="position-relative">
+                            <i class="fas fa-phone-alt"></i> 
+                            <a href="tel:+905378503434">+90 537 850 34 34</a>
+                        </li>
+                        <li class="position-relative">
+                            <i class="fas fa-envelope"></i> 
+                            <a href="mailto:Info@kalkedonyonetim.com">Info@kalkedonyonetim.com</a>
+                        </li>
+                        <li class="position-relative">
+                            <i class="fas fa-map-marker-alt"></i> 
+                            Topkapı, Emlak Kredi Blokları F-1 Blok Daire: 11, <br> 34250 Fatih/İstanbul
+                        </li>
+                    </ul>
                 </div>
-            </div>
+            
         </div>
 
         <div class="footer-copyright-con">
-            <p>© Telif Hakkı 2025 kalkedonyonetim.com</p>
+            <p>© Telif Hakkı 2025<a style="color:#9DA08D;" href="/"> kalkedonyonetim.com</a> </p>
             <div class="header-social-links">
                 <ul class="list-unstyled mb-0 d-flex align-items-center">
                     <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a></li>

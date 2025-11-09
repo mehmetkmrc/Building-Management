@@ -7,28 +7,28 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <div class="banner-inner-section">
-                                <span class="d-block">PRO DANIŞMANLIK’A HOŞ GELDİNİZ</span>
-                                <h1>HER TÜRLÜ <br> İŞLETME İÇİN DANIŞMANLIK</h1>
+                                <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">PRO DANIŞMANLIK’A HOŞ GELDİNİZ</span>
+                                <h1 style="font-family: 'Cinzel', serif; font-weight:900;">HER TÜRLÜ <br> İŞLETME İÇİN DANIŞMANLIK</h1>
                                 <div class="generic-btn">
-                                    <a href="services.html">DAHA FAZLA KEŞFET</a>
+                                    <a href="services.html" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="banner-inner-section">
-                                <span class="d-block">PRO DANIŞMANLIK’A HOŞ GELDİNİZ!</span>
-                                <h1>ÇEŞİTLİ <br> İŞLETMELER İÇİN DANIŞMANLIK</h1>
+                                <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">PRO DANIŞMANLIK’A HOŞ GELDİNİZ!</span>
+                                <h1 style="font-family: 'Cinzel', serif; font-weight:900;">ÇEŞİTLİ <br> İŞLETMELER İÇİN DANIŞMANLIK</h1>
                                 <div class="generic-btn">
-                                    <a href="services.html">DAHA FAZLA KEŞFET</a>
+                                    <a href="services.html" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="banner-inner-section">
-                                <span class="d-block">PRO DANIŞMANLIK’TAN SELAMLAR!</span>
-                                <h1>TÜM İŞLETME <br> TÜRLERİ İÇİN DANIŞMANLIK</h1>
+                                <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">PRO DANIŞMANLIK’TAN SELAMLAR!</span>
+                                <h1 style="font-family: 'Cinzel', serif; font-weight:900;">TÜM İŞLETME <br> TÜRLERİ İÇİN DANIŞMANLIK</h1>
                                 <div class="generic-btn">
-                                    <a href="services.html">DAHA FAZLA KEŞFET</a>
+                                    <a href="services.html" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
                                 </div>
                             </div>
                         </div>
@@ -37,10 +37,10 @@
             </div>
             <!-- Sol ve sağ kontrol butonları -->
             <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                <span class="carousel-control-prev-icon"><i class="fas fa-long-arrow-alt-left"></i> ÖNCEKİ</span>
+                <span class="carousel-control-prev-icon"><i class="fas fa-long-arrow-alt-left"></i> </span>
             </a>
             <a class="carousel-control-next" href="#demo" data-slide="next">
-                <span class="carousel-control-next-icon">SONRAKİ <i class="fas fa-long-arrow-alt-right"></i></span>
+                <span class="carousel-control-next-icon"> <i class="fas fa-long-arrow-alt-right"></i></span>
             </a>
         </div>
     </section>
@@ -51,12 +51,12 @@
         <div class="container">
             <div class="consulting-services-outer-section">
                 <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
-                    <h2>GERÇEK DÜNYA DENEYİMİ</h2>
+                    <h2>KURUMSAL</h2>
                     <p>Güvenebileceğiniz en iyi iş danışmanlık firması!</p>
                 </div>
                 <div class="consulting-services-inner-con" data-aos="fade-up" data-aos-duration="700">
                     <div class="consulting-services-box">
-                        <h4>VARLIK <br> YÖNETİMİ</h4>
+                        <h4>SİTE <br> YÖNETİMİ</h4>
                         <div class="consulting-services-img-con d-flex align-items-center">
                             <a href="single-service.html">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
@@ -66,7 +66,7 @@
                         </div>
                     </div>
                     <div class="consulting-services-box">
-                        <h4>DENEYİMSEL <br> PAZARLAMA</h4>
+                        <h4>APARTMAN <br> YÖNETİMİ</h4>
                         <div class="consulting-services-img-con d-flex align-items-center">
                             <a href="single-service.html">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
@@ -76,7 +76,7 @@
                         </div>
                     </div>
                     <div class="consulting-services-box">
-                        <h4>FİNANSAL <br> DANIŞMANLIK</h4>
+                        <h4>BÜTÇE <br> YÖNETİMİ HİZMETLERİ</h4>
                         <div class="consulting-services-img-con d-flex align-items-center">
                             <a href="single-service.html">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
@@ -92,95 +92,14 @@
 
     <!-- CONSULTING SERVICES SECTION END HERE -->
     <!-- MARKET SECTION START HERE -->
-    <section class="market-section w-100 float-left padding-top position-relative">
-        <div class="container">
-            <div class="market-inner-section" data-aos="fade-up" data-aos-duration="700">
-                <div class="market-video-con">
-                    <figure class="mb-0 market-main-img">
-                        <img src="public/assets/images/market-main-img.jpg" alt="market-main-img" loading="lazy">
-                    </figure>
-                    <figure class="mb-0 market-bottom-img">
-                        <img src="public/assets/images/market-bottom-img.jpg" alt="market-bottom-img" loading="lazy">
-                    </figure>
-                    <div class="video-play-icon d-inline-block">
-                        <a href="javascript:void(0)" onclick="lightbox_open();">
-                            <i class="fas fa-play"></i>
-                        </a>
-                    </div>
-                </div>
-                <div class="market-text-con">
-                    <h2>PAZARDA <br> LİDERİZ</h2>
-                    <p>Lorem ipsum, örnek bir metindir. Dolor sit amet, consectetur adipisicing elit. 
-                        Eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    <span>35+ yıllık deneyime sahibiz. Pazarlama ve danışmanlık hizmetleri sunuyoruz.</span>
-                    <div class="skills-con">
-                        <div class="skills" data-percent="88%">
-                            <div class="title-bar">
-                                <span class="title-heading">DANIŞMANLIK</span>
-                            </div>
-                            <span class="count">88</span>
-                            <small class="percentage">%</small>
-                            <div class="skillbar"></div>
-                        </div>
-                        <div class="skills" data-percent="68%">
-                            <div class="title-bar">
-                                <span class="title-heading">TAVSİYELER</span>
-                            </div>
-                            <span class="count">68</span>
-                            <small class="percentage">%</small>
-                            <div class="skillbar"></div>
-                        </div>
-                    </div>
-                    <div class="market-contact-con">
-                        <a href="tel:+61383766284">
-                            <i class="fas fa-phone-alt"></i>
-                            <ul class="list-unstyled mb-0">
-                                <li>
-                                    <p class="mb-0">Bir sorunuz mu var? Hemen bizi arayın</p>
-                                </li>
-                                <li>+61 3 8376 6284</li>
-                            </ul>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div id="light">
-                <a class="boxclose" id="boxclose" onclick="lightbox_close();"></a>
-                <div id="VisaChipCardVideo">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/wdw8KNmr2pc?si=FuEK7fdoFZh86koK"
-                        title="YouTube video player"></iframe>
-                    <!--Tarayıcınız <video> etiketini desteklemiyor -->
-                </div>
-            </div>
-
-            <div id="fade" onClick="lightbox_close();"></div>
-            <!-- alt özellik kutuları -->
-            <div class="characteristics-section" data-aos="fade-up" data-aos-duration="700">
-                <div class="characteristics-box d-flex align-items-center">
-                    <div class="characteristics-numb">01</div>
-                    <div class="characteristics-txt">
-                        <span class="d-block">PROFESYONEL DANIŞMANLIK ALIN</span>
-                        <p class="mb-0">Birçok farklı seçenek mevcut, ancak çoğu değişikliğe uğramıştır.</p>
-                    </div>
-                </div>
-                <div class="characteristics-box characteristics-box2 d-flex align-items-center">
-                    <div class="characteristics-numb">02</div>
-                    <div class="characteristics-txt">
-                        <span class="d-block">GÜVENİLİR VE PROFESYONEL</span>
-                        <p class="mb-0">Birçok farklı seçenek mevcut, ancak çoğu değişikliğe uğramıştır.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- alt özellik kutuları -->
-        </div>
-    </section>
+    
 
     <!-- MARKET SECTION END HERE -->
     <!-- CASES SECTION START HERE -->
     <section class="cases-section w-100 float-left padding-bottom">
         <div class="container">
             <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
-                <h2>YENİ VAKA ÇALIŞMALARI</h2>
+                <h2>HİZMETLERİMİZ</h2>
                 <p>Müşterilerimizin işlerini yenilemelerine yardımcı oluyoruz</p>
             </div>
             <div class="cases-inner-section" data-aos="fade-up" data-aos-duration="700">
@@ -346,97 +265,12 @@
     </section>
 
     <!-- FAQ SECTION END HERE -->
-    <!-- CUSTOMER SLIDER SECTION START HERE -->
-    <section class="customer-slider-section w-100 float-left padding-top padding-bottom">
-        <div class="container">
-            <div class="customer-slider-outer-con">
-                <div class="customer-title-con">
-                    <h2>ONLAR HAKKINDA NE DİYOR?</h2>
-                    <p>4.200’den fazla müşteri tarafından güvenilmektedir</p>
-                    <div class="btn-wrap">
-                        <button class="prev-btn"><i class="fas fa-long-arrow-alt-left"></i></button>
-                        <button class="next-btn"><i class="fas fa-long-arrow-alt-right"></i></button>
-                    </div>
-                </div>
-                <div class="customer-slider-con" data-aos="fade-up" data-aos-duration="700">
-                    <div id="owl-carousel-customer" class="owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="customer-slider-review">
-                                <p>Lorem ipsum, sadece serbest metin olarak kullanılmıştır <br> dolor sit amet, consectetur notted adipisicing
-                                    elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <span class="d-block">KEVIN MARTIN</span>
-                                <small class="d-block">MÜŞTERİ</small>
-                                <figure class="mb-0">
-                                    <img src="public/assets/images/customer-img1.png" alt="müşteri-img1" loading="lazy">
-                                </figure>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="customer-slider-review">
-                                <p>Lorem ipsum, sadece serbest metin olarak kullanılmıştır <br> dolor sit amet, consectetur notted adipisicing
-                                    elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <span class="d-block">CHRISTINE EVE</span>
-                                <small class="d-block">MÜŞTERİ</small>
-                                <figure class="mb-0">
-                                    <img src="public/assets/images/customer-img2.png" alt="müşteri-img2" loading="lazy">
-                                </figure>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- CUSTOMER SLIDER SECTION END HERE -->
-    <!-- PROGRESS COUNTER SECTION START HERE -->
-    <div class="progress-counter-section w-100 float-left">
-        <div class="container">
-            <div class="customer-counter-inner-sec" data-aos="fade-up" data-aos-duration="700">
-                <div class="customer-counter-box">
-                    <figure>
-                        <img src="public/assets/images/counter-icon1.png" alt="counter-icon1" loading="lazy">
-                    </figure>
-                    <div class="count d-inline-block">420</div>
-                    <span class="d-block client-status">DANIŞMANLIK <br> ÇÖZÜMLERİ</span>
-                </div>
-                <div class="customer-counter-box">
-                    <figure>
-                        <img src="public/assets/images/counter-icon2.png" alt="counter-icon2" loading="lazy">
-                    </figure>
-                    <div class="count d-inline-block">5000</div>
-                    <small>+</small>
-                    <span class="d-block client-status">TAMAMLANMIŞ <br> PROJELER</span>
-                </div>
-                <div class="customer-counter-box">
-                    <figure>
-                        <img src="public/assets/images/counter-icon3.png" alt="counter-icon3" loading="lazy">
-                    </figure>
-                    <div class="count d-inline-block">4999</div>
-                    <span class="d-block client-status">MEMNUN <br> MÜŞTERİLER</span>
-                </div>
-                <div class="customer-counter-box">
-                    <figure>
-                        <img src="public/assets/images/counter-icon4.png" alt="counter-icon4" loading="lazy">
-                    </figure>
-                    <div class="count d-inline-block">160</div>
-                    <span class="d-block client-status">UZMAN <br> DANIŞMAN</span>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- PROGRESS COUNTER SECTION END HERE -->
-    <!-- MAP SECTION START HERE -->
-    <div class="map-section w-100 float-left">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.022065226582!2d28.932859499999996!3d41.0247732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabbd6513043d1%3A0x97054472e3645306!2zS0FMS0VET04gWcOWTkVUxLBNICYgREFOScWeTUFOTElLIEzEsE3EsFRFRCDFnsSwUktFVMSw!5e0!3m2!1str!2str!4v1762557283493!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-    <!-- MAP SECTION END HERE -->
-   <!-- BLOG BÖLÜMÜ BURADA BAŞLIYOR -->
+    
+    <!-- BLOG BÖLÜMÜ BURADA BAŞLIYOR -->
     <section class="blog-section w-100 float-left padding-top padding-bottom">
         <div class="container">
             <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
-                <h2>NELER OLUYOR</h2>
+                <h2>BLOGLAR</h2>
                 <p>Yaptıklarımıza göz atın</p>
             </div>
             <div class="blog-inner-section" data-aos="fade-up" data-aos-duration="700">
@@ -493,15 +327,45 @@
     </section>
     <!-- BLOG BÖLÜMÜ BURADA BİTİYOR -->
 
-    <!-- EN İYİ DENEYİM BÖLÜMÜ BURADA BAŞLIYOR -->
-    <section class="best-experience-section w-100 float-left">
-        <div class="container-fluid">
-            <div class="register-inner-section" data-aos="fade-up" data-aos-duration="700">
-                <h2>EN İYİ MÜŞTERİ DENEYİMİNİ SUNUYORUZ</h2>
-                <div class="generic-btn">
-                    <a href="contact.html">HAYDİ BAŞLAYALIM</a>
-                </div>
+
+    <section class="contact-form-section w-100 float-left padding-top padding-bottom">
+    <div class="container">
+        <div class="contact-form-inner-con text-center">
+            <div class="generic-title" data-aos="fade-up" data-aos-duration="700">
+                <h2>İLETİŞİME GEÇİN</h2>
+                <p>Müşterilerimizin işlerini yenilemelerine yardımcı oluyoruz</p>
+            </div>
+            <div class="sub-page-form" data-aos="fade-up" data-aos-duration="700">
+                <form class="form-box" method="post" action="https://formsubmit.co/info@kalkedonyonetim.com" id="contactpage">
+                    <!-- FormSubmit ayarları -->
+                    <input type="hidden" name="_next" value="https://www.kalkedonyonetim.com/">
+                    <input type="hidden" name="_captcha" value="false">
+                    
+                    <ul class="list-unstyled">
+                        <li><input type="text" name="fname" id="fname" placeholder="Adınız:" required></li>
+                        <li><input type="email" name="email" id="email" placeholder="E-posta:" required></li>
+                        <li><input type="tel" name="phone" id="phone" placeholder="Telefon:"></li>
+                        <li><textarea name="subject" id="subject" placeholder="Mesajınızı buraya yazın..." required></textarea></li>
+                    </ul>
+                    <div class="submit-btn">
+                        <button type="submit" id="submit">GÖNDER</button>
+                    </div>
+                </form>
+
             </div>
         </div>
+    </div>
     </section>
-    <!-- EN İYİ DENEYİM BÖLÜMÜ BURADA BİTİYOR -->
+
+
+
+    
+
+    <!-- PROGRESS COUNTER SECTION END HERE -->
+    <!-- MAP SECTION START HERE -->
+    <div class="map-section w-100 float-left">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.022065226582!2d28.932859499999996!3d41.0247732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabbd6513043d1%3A0x97054472e3645306!2zS0FMS0VET04gWcOWTkVUxLBNICYgREFOScWeTUFOTElLIEzEsE3EsFRFRCDFnsSwUktFVMSw!5e0!3m2!1str!2str!4v1762557283493!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <!-- MAP SECTION END HERE -->
+   
+    

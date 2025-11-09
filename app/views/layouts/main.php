@@ -24,11 +24,12 @@
     <title><?= htmlspecialchars($title ?? 'Kalkedon', ENT_QUOTES, 'UTF-8') ?></title>
 
    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
-    <link rel="stylesheet" href="public/assets/bootstrap/bootstrap.min.css?v=<?= filemtime('public/assets/css/custom.css') ?>">
-    <link rel="stylesheet" href="public/assets/css/aos.css?v=<?= filemtime('public/assets/css/custom.css') ?>">
-    <link rel="stylesheet" href="public/assets/css/owl.carousel.css?v=<?= filemtime('public/assets/css/custom.css') ?>">
+    <link rel="stylesheet" href="public/assets/bootstrap/bootstrap.min.css?v=<?= filemtime('public/assets/bootstrap/bootstrap.min.css') ?>">
+    <link rel="stylesheet" href="public/assets/css/aos.css?v=<?= filemtime('public/assets/css/aos.css') ?>">
+    <link rel="stylesheet" href="public/assets/css/owl.carousel.css?v=<?= filemtime('public/assets/css/owl.carousel.css') ?>">
     <link rel="stylesheet" href="public/assets/css/custom.css?v=<?= filemtime('public/assets/css/custom.css') ?>">
-    <link rel="stylesheet" href="public/assets/css/mobile.css?v=<?= filemtime('public/assets/css/custom.css') ?>">
+    <link rel="stylesheet" href="public/assets/css/mobile.css?v=<?= filemtime('public/assets/css/mobile.css') ?>">
+
 </head>
 <body>
 

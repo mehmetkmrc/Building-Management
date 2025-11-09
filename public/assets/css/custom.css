@@ -123,6 +123,19 @@ a:hover {
     gap: 8px;
 }
 
+/* Tüm sayfa için seçili metin rengi */
+::selection {
+  background-color: #9DA08D; /* Seçili metnin arka plan rengi */
+  color: #fff; /* İsteğe bağlı: metin rengi */
+}
+
+/* Safari (WebKit) için destek */
+::-moz-selection {
+  background-color: #9DA08D;
+  color: #fff;
+}
+
+
 .header-social-links ul li a {
     width: 30px;
     height: 30px;

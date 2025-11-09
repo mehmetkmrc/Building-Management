@@ -3,14 +3,14 @@
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg navbar-light p-0">       
                     <figure class="mb-0" style="display: flex; align-items: center; gap: 10px; margin: 0;">
-                    <img href="/" src="https://www.kalkedonyonetim.com/icon-3.png" 
+                    <img href="/" src="https://www.kalkedonyonetim.com/icon-kopya-2.png" 
                         alt="header-logo" 
                         loading="lazy" 
-                        style="width: 60px; height: auto;">
+                        style="width: 90px; height: 90px;">
                         
                     <div style="display: flex; flex-direction: column; line-height: 1;">
-                        <a href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size: 33px;">KALKEDON</a>
-                        <a href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size: 14px;">YÖNETİM & DANIŞMANLIK</a>
+                        <a href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size: 34px;">KALKEDON</a>
+                        <a href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size: 14.5px;">YÖNETİM & DANIŞMANLIK</a>
                     </div>
                     </figure>
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
@@ -23,24 +23,24 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">Ana Sayfa</a>
+                            <a class="nav-link p-0" href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">Ana Sayfa</a>
                         </li>
                          <li class="nav-item">
-                            <a class="nav-link p-0" href="/about" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">Hakkımızda</a>
+                            <a class="nav-link p-0" href="/about" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">Hakkımızda</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="/services" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">Hizmetlerimiz</a>
+                            <a class="nav-link p-0" href="/services" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">Hizmetlerimiz</a>
                         </li>
                        
                         
                       
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle p-0" href="/blog" id="navbarDropdown4" role="button"
-                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">
                                 Bloglar
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
-                                <a class="dropdown-item" href="blog.html" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 20px">Blog</a>
+                                <a class="dropdown-item" href="blog.html" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">Blog</a>
                                 <a class="dropdown-item" href="load-more.html">Daha Fazla Yükle</a>
                                 <a class="dropdown-item" href="single-blog.html">Tek Blog</a>
                                 <a class="dropdown-item" href="one-column.html">Tek Sütun</a>
@@ -52,7 +52,7 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link p-0" href="/contact" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size: 23px">İletişim</a>
+                            <a class="nav-link p-0" href="/contact" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">İletişim</a>
                         </li>
                     </ul>
                     <div class="header-social-links">
@@ -70,11 +70,12 @@
                     
                     <div class="contact-expert">
                         <a href="tel:+905378503434">
-                            <span class="d-block" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;font-size: 20px;">Bize Ulaşın</span>
-                             <div style="display: flex; flex-direction: column; line-height: 1;">
-                                <a href="tel:+905378503434" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;">+90 537 850 34 34</a>
-                                <a href="mailto:info@kalkedonyonetim.com" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;">info@kalkedonyonetim.com</a>
-                            </div>
+                            <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 5px;">
+    <span style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;font-size: 20px;">Bize Ulaşın</span>
+    <a href="tel:+905378503434" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;">0537 850 34 34</a>
+    <a href="mailto:info@kalkedonyonetim.com" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;">info@kalkedonyonetim.com</a>
+</div>
+
                             
                            
                         </a>
