@@ -116,7 +116,7 @@
 
     <!-- MARKET SECTION END HERE -->
     <!-- CASES SECTION START HERE -->
-    <section class="cases-section w-100 float-left padding-bottom">
+    <section id="hizmetler" class="cases-section w-100 float-left padding-bottom">
         <div class="container">
             <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
                 <h2>HİZMETLERİMİZ</h2>

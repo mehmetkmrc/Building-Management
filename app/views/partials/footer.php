@@ -21,16 +21,16 @@
                 <h4>KEŞFET</h4>
                 <div class="footer-links-inner-box">
                     <ul class="list-unstyled mb-0">
-                        <li><a href="about.html">Hakkımızda</a></li>
-                        <li><a href="services.html">Hizmetlerimiz</a></li>
-                        <li><a href="cases.html">Blog</a></li>
-                        <li><a href="contact.html">İletişim</a></li>
+                        <li><a href="/about">Hakkımızda</a></li>
+                        <li><a href="/#hizmetler">Hizmetlerimiz</a></li>
+                        <li><a href="/blog">Blog</a></li>
+                        <li><a href="/contact">İletişim</a></li>
                     </ul>
                     <ul class="list-unstyled mb-0">
-                        <li><a href="contact.html">Destek</a></li>
-                        <li><a href="faq.html">Kullanım Şartları</a></li>
-                        <li><a href="single-blog.html">Gizlilik Politikası</a></li>
-                        <li><a href="contact.html">Yardım</a></li>
+                        <li><a href="/">Destek</a></li>
+                        <li><a href="/">Kullanım Şartları</a></li>
+                        <li><a href="/">Gizlilik Politikası</a></li>
+                        <li><a href="/contact">Yardım</a></li>
                     </ul>
                 </div>
             </div>
