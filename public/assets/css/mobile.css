@@ -3,6 +3,7 @@
         gap: 40px;
     }
 
+    
     .header-main-con .navbar-collapse {
         padding: 30px 35px 31px 55px;
     }
@@ -763,7 +764,7 @@
     }
 
     .footer-contact-details {
-        padding: 20px 0 20px;
+        padding: 0px 0 20px;
     }
 
     .footer-inner-section h4 {
@@ -2675,6 +2676,7 @@
 
     .footer-logo-con figure img {
         width: 150px;
+        margin-left: 35px;
     }
 
     .footer-inner-section h4 {

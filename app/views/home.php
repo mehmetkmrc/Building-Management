@@ -7,8 +7,8 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <div class="banner-inner-section">
-                                <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">PRO DANIŞMANLIK’A HOŞ GELDİNİZ</span>
-                                <h1 style="font-family: 'Cinzel', serif; font-weight:900;">HER TÜRLÜ <br> İŞLETME İÇİN DANIŞMANLIK</h1>
+                                <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">Kalkedon yönetime hoşgeldiniz!</span>
+                                <h1 style="font-family: 'Cinzel', serif; font-weight:900;">HUKUKUN REHBERLİĞİNDE <br> PROFESYONEL YÖNETİM</h1>
                                 <div class="generic-btn">
                                     <a href="services.html" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
                                 </div>
@@ -16,8 +16,8 @@
                         </div>
                         <div class="carousel-item">
                             <div class="banner-inner-section">
-                                <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">PRO DANIŞMANLIK’A HOŞ GELDİNİZ!</span>
-                                <h1 style="font-family: 'Cinzel', serif; font-weight:900;">ÇEŞİTLİ <br> İŞLETMELER İÇİN DANIŞMANLIK</h1>
+                                <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">Kalkedon yönetimden selamlar!</span>
+                                <h1 style="font-family: 'Cinzel', serif; font-weight:900;">ŞEFFAF YÖNETİM <br> HUZURLU YAŞAM</h1>
                                 <div class="generic-btn">
                                     <a href="services.html" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
                                 </div>
@@ -25,8 +25,8 @@
                         </div>
                         <div class="carousel-item">
                             <div class="banner-inner-section">
-                                <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">PRO DANIŞMANLIK’TAN SELAMLAR!</span>
-                                <h1 style="font-family: 'Cinzel', serif; font-weight:900;">TÜM İŞLETME <br> TÜRLERİ İÇİN DANIŞMANLIK</h1>
+                                <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">Kalkedon yönetime hoşgeldiniz!</span>
+                                <h1 style="font-family: 'Cinzel', serif; font-weight:900;">TÜM KONUT <br> TÜRLERİ İÇİN DANIŞMANLIK</h1>
                                 <div class="generic-btn">
                                     <a href="services.html" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
                                 </div>
@@ -52,11 +52,12 @@
             <div class="consulting-services-outer-section">
                 <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
                     <h2>KURUMSAL</h2>
-                    <p>Güvenebileceğiniz en iyi iş danışmanlık firması!</p>
+                    <p></p>
                 </div>
                 <div class="consulting-services-inner-con" data-aos="fade-up" data-aos-duration="700">
                     <div class="consulting-services-box">
-                        <h4>SİTE <br> YÖNETİMİ</h4>
+                        <h4>HAKKIMIZDA </h4>
+                        <p>Kalkedon Yönetim ve Danışmanlık Limited Şirketi, hukuk fakültesi mezunu yöneticiler tarafından kurulmuş, apartman ve site yönetiminde profesyonel hizmet sunan bir şirkettir.</p>
                         <div class="consulting-services-img-con d-flex align-items-center">
                             <a href="single-service.html">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
@@ -66,8 +67,11 @@
                         </div>
                     </div>
                     <div class="consulting-services-box">
-                        <h4>APARTMAN <br> YÖNETİMİ</h4>
+                        <h4>MİSYONUMUZ</h4>
+                        <p>Güvenilir, şeffaf ve kaliteli yönetim anlayışımızla, apartman ve site sakinlerinin yaşamını kolaylaştırmak...
+</p>
                         <div class="consulting-services-img-con d-flex align-items-center">
+                            
                             <a href="single-service.html">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
                                 <img src="public/assets/images/consulting-service-icon2.png" alt="consulting-service-icon2"
@@ -76,7 +80,8 @@
                         </div>
                     </div>
                     <div class="consulting-services-box">
-                        <h4>BÜTÇE <br> YÖNETİMİ HİZMETLERİ</h4>
+                        <h4>VİZYONUMUZ</h4>
+                        <p>Türkiye’de site ve apartman yönetiminde güvenin, şeffaflığın ve profesyonelliğin simgesi haline gelmek...</p>
                         <div class="consulting-services-img-con d-flex align-items-center">
                             <a href="single-service.html">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
@@ -92,7 +97,22 @@
 
     <!-- CONSULTING SERVICES SECTION END HERE -->
     <!-- MARKET SECTION START HERE -->
-    
+    <!-- CASES SECTION END HERE -->
+    <!-- MISSION SECTION START HERE -->
+    <section class="mission-section w-100 float-left padding-top padding-bottom">
+        <div class="container">
+            <div class="mission-inner-box text-center" data-aos="fade-up" data-aos-duration="700">
+                <h2>Kalkedon Yönetim olarak <br> önceliğimiz  Kadıköy halkına hizmet vermektir</h2>
+                <p>Faaliyetlerimizi  öncelikle Kadıköy  ilçesinde sürdürerek bölgede kaliteli çözümler üretiyor, 
+                    <br> ihtiyaçlara hızlı ve etkili şekilde cevap veriyoruz.
+                </p>
+                <div class="generic-btn">
+                    <a href="services.html">DAHA FAZLASINI KEŞFET</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <!-- MARKET SECTION END HERE -->
     <!-- CASES SECTION START HERE -->
@@ -105,14 +125,14 @@
             <div class="cases-inner-section" data-aos="fade-up" data-aos-duration="700">
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/case-img1.jpg" alt="case-img1" loading="lazy">
+                        <img src="public/assets/images/case-img3.jpg" alt="case-img1" loading="lazy">
                     </figure>
                     <div class="case-text-box">
                         <figure>
                             <img src="public/assets/images/case-icon1.png" alt="case-icon1" loading="lazy">
                         </figure>
-                        <span>DÜŞÜNCE LİDERLİĞİ</span>
-                        <h3 class="mb-0">İŞ BÜYÜMESİ</h3>
+                        <span></span>
+                        <h3 class="mb-0">APARTMAN YÖNETİMİ</h3>
                     </div>
                 </div>
                 <div class="case-main-box position-relative">
@@ -123,20 +143,20 @@
                         <figure>
                             <img src="public/assets/images/case-icon2.png" alt="case-icon2" loading="lazy">
                         </figure>
-                        <span>RİSK YÖNETİMİ</span>
-                        <h3 class="mb-0">PAZARLAMA DANIŞMANLIĞI</h3>
+                        <span></span>
+                        <h3 class="mb-0">SİTE YÖNETİMİ</h3>
                     </div>
                 </div>
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/case-img3.jpg" alt="case-img3" loading="lazy">
+                        <img src="public/assets/images/case-img1.jpg" alt="case-img3" loading="lazy">
                     </figure>
                     <div class="case-text-box">
                         <figure>
                             <img src="public/assets/images/case-icon3.png" alt="case-icon3" loading="lazy">
                         </figure>
-                        <span>İŞ STRATEJİSİ</span>
-                        <h3 class="mb-0">FİNANSAL DANIŞMANLIK</h3>
+                        <span></span>
+                        <h3 class="mb-0">BÜTÇE YÖNETİMİ HİZMETLERİ</h3>
                     </div>
                 </div>
             </div>
@@ -148,9 +168,9 @@
     <section class="mission-section w-100 float-left padding-top padding-bottom">
         <div class="container">
             <div class="mission-inner-box text-center" data-aos="fade-up" data-aos-duration="700">
-                <h2>MİSYONUMUZ İŞİNİZİ <br> VE ÇOK DAHA FAZLASINI KORUMAKTIR</h2>
-                <p>Lorem ipsum, sadece örnek bir metindir. Gerçek içerik burada yer alacaktır. 
-                    <br> Çalışmalarımızda en yüksek kaliteyi ve güveni hedefliyoruz.
+                <h2>Antik Ruh <br> Modern Çözümler</h2>
+                <p>Güvenilir, şeffaf ve kaliteli yönetim anlayışımızla; bina ve apartman sakinlerinin yaşamını kolaylaştırıp 
+                    <br> huzurlu bir yaşam alanı sunuyoruz.
                 </p>
                 <div class="generic-btn">
                     <a href="services.html">DAHA FAZLASINI KEŞFET</a>

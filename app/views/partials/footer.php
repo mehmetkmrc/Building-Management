@@ -5,18 +5,15 @@
             <div class="footer-logo-con">
                 <a href="index.html">
                     <figure class="mb-0" style="display: flex; align-items: center; gap: 10px; margin: 0;">
-                    <img href="/" src="https://www.kalkedonyonetim.com/icon-kopya-2.png" 
+                    <img href="/" src="https://www.kalkedonyonetim.com/logo-footer-1.png" 
                         alt="header-logo" 
                         loading="lazy" 
-                        style="width: 90px; height: 90px;">
+                        style="width: 320px;">
                         
-                    <div style="display: flex; flex-direction: column; line-height: 1;">
-                        <a href="/" style="color: #ffffffff; font-family: 'Cinzel', serif; font-weight:900; font-size: 34px;">KALKEDON</a>
-                        <a href="/" style="color: #ffffffff; font-family: 'Cinzel', serif; font-weight:900; font-size: 14.5px;">YÖNETİM & DANIŞMANLIK</a>
-                    </div>
+                    
                     </figure>
                 </a>
-                <p style="font-size: 18px;">Danışmanlık ajansımıza hoş geldiniz. Bina yönetimi için doğru yerdesiniz.</p>
+                <p style="font-size: 18px;">Bina yönetimi için doğru yerdesiniz.</p>
                 
             </div>
 
@@ -25,9 +22,8 @@
                 <div class="footer-links-inner-box">
                     <ul class="list-unstyled mb-0">
                         <li><a href="about.html">Hakkımızda</a></li>
-                        <li><a href="services.html">Ekibimizle Tanışın</a></li>
-                        <li><a href="cases.html">Proje Hikayeleri</a></li>
-                        <li><a href="blog.html">Son Haberler</a></li>
+                        <li><a href="services.html">Hizmetlerimiz</a></li>
+                        <li><a href="cases.html">Blog</a></li>
                         <li><a href="contact.html">İletişim</a></li>
                     </ul>
                     <ul class="list-unstyled mb-0">
@@ -39,6 +35,7 @@
                 </div>
             </div>
             <div class="footer-contact-details">
+                <h4>İLETİŞİM</h4>
                     <ul class="list-unstyled">
                         <li class="position-relative">
                             <i class="fas fa-phone-alt"></i> 

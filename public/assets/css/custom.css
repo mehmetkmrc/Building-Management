@@ -6,7 +6,7 @@
     --secondary-color: #1d1d0d;
     --accent: #9da08d;
     --text-color: #917d0e;
-    --button-color: #D1C5B5;
+    --button-color: #DECAAF;
 }
 
 * {
@@ -247,7 +247,7 @@ a:hover {
 /* header section styling end here */
 /* banner section styling start here */
 .banner-main-section {
-    background: url(../images/banner-bg-img.jpg) no-repeat center;
+    background: url(https://www.kalkedonyonetim.com/kalkedon-bg-img.jpg) no-repeat center;
     background-size: cover;
     height: 983px;
     position: relative;
@@ -255,7 +255,7 @@ a:hover {
 
 .banner-main-section::after {
     content: "";
-    background: url(../images/banner-right-shape.png) no-repeat center;
+    background: url() no-repeat center;
     width: 901px;
     height: 984px;
     position: absolute;
@@ -1337,7 +1337,7 @@ a:hover {
 }
 
 .footer-contact-details {
-    padding: 45px 0 35px;
+    padding: 0px 0 35px;
 }
 
 .footer-contact-details ul li,
@@ -2450,6 +2450,12 @@ a:hover {
         -webkit-transform: scale(1);
         transform: scale(1);
     }
+}
+@media (max-width: 768px) {
+  .dropdown-menu {
+    max-height: 300px; /* menü yüksekliği sabitleniyor */
+    overflow-y: auto;  /* içerik taşarsa dikey kaydırma */
+  }
 }
 
 /* Preloader -------------------------------------------------------*/
