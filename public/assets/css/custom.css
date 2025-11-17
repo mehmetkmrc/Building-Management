@@ -209,7 +209,7 @@ a:hover {
 .header-main-con .navbar-nav .dropdown-menu {
     padding: 10px 0;
     margin: 0;
-    background: var(--primary-color);
+    background: #ddd5c3;
     border: 0;
     border-radius: 0;
 }
@@ -2453,7 +2453,7 @@ a:hover {
 }
 @media (max-width: 768px) {
   .dropdown-menu {
-    max-height: 300px; /* menü yüksekliği sabitleniyor */
+    max-height: 500px; /* menü yüksekliği sabitleniyor */
     overflow-y: auto;  /* içerik taşarsa dikey kaydırma */
   }
 }

@@ -102,9 +102,9 @@
     <section class="mission-section w-100 float-left padding-top padding-bottom">
         <div class="container">
             <div class="mission-inner-box text-center" data-aos="fade-up" data-aos-duration="700">
-                <h2>Kalkedon Yönetim olarak <br> önceliğimiz  Kadıköy halkına hizmet vermektir</h2>
-                <p>Faaliyetlerimizi  öncelikle Kadıköy  ilçesinde sürdürerek bölgede kaliteli çözümler üretiyor, 
-                    <br> ihtiyaçlara hızlı ve etkili şekilde cevap veriyoruz.
+                <h2>Antik Ruh <br> Modern Çözümler</h2>
+                <p>Güvenilir, şeffaf ve kaliteli yönetim anlayışımızla; bina ve apartman sakinlerinin yaşamını kolaylaştırıp 
+                    <br> huzurlu bir yaşam alanı sunuyoruz.
                 </p>
                 <div class="generic-btn">
                     <a href="services.html">DAHA FAZLASINI KEŞFET</a>
@@ -165,12 +165,12 @@
 
     <!-- CASES SECTION END HERE -->
     <!-- MISSION SECTION START HERE -->
-    <section class="mission-section w-100 float-left padding-top padding-bottom">
+     <section class="mission-section w-100 float-left padding-top padding-bottom">
         <div class="container">
             <div class="mission-inner-box text-center" data-aos="fade-up" data-aos-duration="700">
-                <h2>Antik Ruh <br> Modern Çözümler</h2>
-                <p>Güvenilir, şeffaf ve kaliteli yönetim anlayışımızla; bina ve apartman sakinlerinin yaşamını kolaylaştırıp 
-                    <br> huzurlu bir yaşam alanı sunuyoruz.
+                <h2>Önceliğimiz  Kadıköy Halkına Hizmet Vermektir</h2>
+                <p>Faaliyetlerimizi  öncelikle Kadıköy  ilçesinde sürdürerek bölgede kaliteli çözümler üretiyor, 
+                    <br> ihtiyaçlara hızlı ve etkili şekilde cevap veriyoruz.
                 </p>
                 <div class="generic-btn">
                     <a href="services.html">DAHA FAZLASINI KEŞFET</a>
@@ -178,6 +178,7 @@
             </div>
         </div>
     </section>
+    
 
     <!-- MISSION SECTION END HERE -->
     <!-- FAQ SECTION START HERE -->

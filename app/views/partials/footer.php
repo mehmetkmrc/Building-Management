@@ -39,7 +39,7 @@
                     <ul class="list-unstyled">
                         <li class="position-relative">
                             <i class="fas fa-phone-alt"></i> 
-                            <a href="tel:+905378503434">+90 537 850 34 34</a>
+                            <a href="tel:+905552233434">0555 223 34 34</a>
                         </li>
                         <li class="position-relative">
                             <i class="fas fa-envelope"></i> 

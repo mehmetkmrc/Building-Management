@@ -26,7 +26,7 @@
                         <img src="public/assets/images/phone-img.png" alt="phone-img" loading="lazy">
                     </figure>
                     <span>7/24 ARAYIN</span>
-                    <a href="tel:+61383766284">+61 3 8376 6284</a>
+                    <a href="tel:+905552233434">0555 223 34 34</a>
                 </div>
             </div>
 
@@ -40,7 +40,7 @@
                         <img src="public/assets/images/mail-img.png" alt="mail-img" loading="lazy">
                     </figure>
                     <span>DAHA FAZLA BİLGİ</span>
-                    <a href="mailto:Info@consultking.om">Info@consultking.om</a>
+                    <a href="mailto:info@kalkedonyonetim.com">info@kalkedonyonetim.com</a>
                 </div>
             </div>
 
@@ -54,7 +54,7 @@
                         <img src="public/assets/images/location-img.png" alt="location-img" loading="lazy">
                     </figure>
                     <span>ADRES</span>
-                    <p class="mb-0">21 King Street Melbourne, 3000, Avustralya</p>
+                    <p class="mb-0">Topkapı, Emlak Kredi Blokları F-1 Blok Daire: 11, <br> 34250 Fatih/İstanbul</p>
                 </div>
             </div>
         </div>

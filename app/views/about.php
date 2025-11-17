@@ -19,7 +19,7 @@
                     İŞLER</h2>
                 <p> Kalkedon Yönetim ve Danışmanlık Limited Şirketi, hukuk fakültesi mezunu yöneticiler tarafından kurulmuş, apartman ve site yönetiminde profesyonel hizmet sunan bir şirkettir. </p>
                 <p>Misyonumuz; güvenilir, şeffaf ve kaliteli yönetim anlayışımızla, bina ve apartman sakinlerinin yaşamını kolaylaştırmak ve huzurlu bir yaşam alanı sunmaktır. Şirketimiz bünyesinde avukat, mali müşavir ve teknik personel kadrolu olarak görev almakta; böylece yönetim süreçlerinde hem hukuki hem de mali ve teknik konularda profesyonel destek sağlanmaktadır. </p>
-                <p class="mb-0"><span>Genç, dinamik ve alanında uzman ekibimizle tüm süreçleri titizlikle yürütüyor; yasal mevzuata uygun, hesap verilebilir ve sürdürülebilir bir yönetim anlayışı benimsiyoruz.</span></p>
+                <p >Genç, dinamik ve alanında uzman ekibimizle tüm süreçleri titizlikle yürütüyor; yasal mevzuata uygun, hesap verilebilir ve sürdürülebilir bir yönetim anlayışı benimsiyoruz.</p>
             </div>
             <div class="vision-img-con" data-aos="fade-up" data-aos-duration="700">
                 <div class="vision-imgs-box position-relative">

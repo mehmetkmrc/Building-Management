@@ -43,16 +43,14 @@
                                 <a class="dropdown-item" href="/about" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size:14px;">APARTMAN YÖNETİMİ</a>
                                 <a class="dropdown-item" href="/mission" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">BİNA VE TESİS YÖNETİMİ</a>
                                 <a class="dropdown-item" href="/vision" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">YÖNETİM DANIŞMANLIĞI</a>
-                                <a class="dropdown-item" href="/about" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">YÖNETİM PLANI HAZIRLAMA</a>
-                                <a class="dropdown-item" href="/mission" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">BÜTÇE YÖNETİMİ / İŞLETME PROJESİ HAZIRLAMA</a>
+                                <a class="dropdown-item" href="/about" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">YÖNETİM PLANLAMASI</a>
+                                <a class="dropdown-item" href="/mission" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">BÜTÇE YÖNETİMİ</a>
                                 <a class="dropdown-item" href="/vision" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">ENERJİ DANIŞMANLIĞI</a>
-                                <a class="dropdown-item" href="/about" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">KENTSEL DÖNÜŞÜM DANIŞMANLIĞI</a>
+                                <a class="dropdown-item" href="/about" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">KENTSEL DÖNÜŞÜM</a>
                                 <a class="dropdown-item" href="/mission" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">DENETİM HİZMETLERİ</a>
-                                <a class="dropdown-item" href="/vision" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">TEKNİK DESTEK HİZMETLERİ</a>
+                                <a class="dropdown-item" href="/vision" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">TEKNİK DESTEK</a>
                                 <a class="dropdown-item" href="/mission" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">HUKUK DANIŞMANLIĞI</a>
-                                <a class="dropdown-item" href="/vision" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">MUHASEBE İŞLEMLERİ</a>
-
-                                
+                                <a class="dropdown-item" href="/vision" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">MUHASEBE İŞLEMLERİ</a> 
                             </div>
                         </li>
                         
