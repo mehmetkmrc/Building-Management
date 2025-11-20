@@ -199,5 +199,63 @@
             lightBoxVideo.pause();
         }
     </script>
+    <script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const tabLinks = document.querySelectorAll(".about-vision-section .nav-tabs .nav-link");
+    const tabPanes = document.querySelectorAll(".vision-inner-section .tab-pane");
+
+    function clearAll() {
+        tabLinks.forEach(link => link.classList.remove("active"));
+        tabPanes.forEach(pane => pane.classList.remove("active"));
+    }
+
+    function openTab(tabName) {
+        if (!tabName) return;
+
+        clearAll();
+
+        const btn = Array.from(tabLinks).find(l => l.getAttribute("data-tab") === tabName);
+        const pane = document.getElementById(tabName);
+
+        if (btn && pane) {
+            btn.classList.add("active");
+            pane.classList.add("active");
+        }
+    }
+
+    // URL param veya hash kontrolü
+    const params = new URLSearchParams(window.location.search);
+    const requestedTab = params.get("tab");
+    const hash = window.location.hash ? window.location.hash.replace("#", "") : null;
+
+    if (requestedTab) openTab(requestedTab);
+    else if (hash) openTab(hash);
+
+    // Tıklama event
+    tabLinks.forEach(link => {
+        link.addEventListener("click", function(e) {
+            e.preventDefault();
+            const tabName = this.getAttribute("data-tab");
+            openTab(tabName);
+        });
+    });
+
+    // hash değişirse
+    window.addEventListener("hashchange", function() {
+        const newHash = window.location.hash.replace("#", "");
+        openTab(newHash);
+    });
+
+});
+</script>
+
+
+
+
+
+
+
+
 </body>
 </html>

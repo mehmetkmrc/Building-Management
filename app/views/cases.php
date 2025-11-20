@@ -120,7 +120,7 @@
                 <br> tempor incididunt ut labore et dolore magna aliqua.
             </p>
             <div class="generic-btn">
-                <a href="services.html">DAHA FAZLA KEŞFET</a>
+                <a href="/about">DAHA FAZLA KEŞFET</a>
             </div>
         </div>
     </div>
@@ -139,7 +139,7 @@
                 <h2>FİNANSAL <br> DANIŞMANLIK</h2>
                 <p>Genel tüketiciye yönelik ürün ve hizmetlerin hakim olduğu pazarlar.</p>
                 <div class="service-btn">
-                    <a href="services.html">DETAYLAR</a>
+                    <a href="/about">DETAYLAR</a>
                 </div>
             </div>
             <div class="supplementory-right-box">
@@ -163,7 +163,7 @@
                 <h2>İŞ DANIŞMANLIĞI</h2>
                 <p>İş danışmanlığı, satın alma ve yönetimden sorumlu yöneticilere hizmet eder.</p>
                 <div class="service-btn">
-                    <a href="services.html">DETAYLAR</a>
+                    <a href="/about">DETAYLAR</a>
                 </div>
             </div>
             <div class="supplementory-right-box">
@@ -187,7 +187,7 @@
                 <h2>SİGORTA <br> DANIŞMANLIĞI</h2>
                 <p>Derinlemesine analizler yapıyor ve doğru kişilerle bir araya gelerek çözümler üretiyoruz.</p>
                 <div class="service-btn">
-                    <a href="services.html">DETAYLAR</a>
+                    <a href="/about">DETAYLAR</a>
                 </div>
             </div>
             <div class="supplementory-right-box">

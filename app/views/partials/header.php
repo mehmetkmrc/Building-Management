@@ -28,9 +28,9 @@
                                 KURUMSAL
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
-                                <a class="dropdown-item" href="/about" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">HAKKIMIZDA</a>
-                                <a class="dropdown-item" href="/mission" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">VİZYONUMUZ</a>
-                                <a class="dropdown-item" href="/vision" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">MİSYONUMUZ</a>
+                                <a class="dropdown-item" href="/about?tab=hakkimizda" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">HAKKIMIZDA</a> 
+                                <a class="dropdown-item" href="/about?tab=misyon" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">MİSYONUMUZ</a>
+                                <a class="dropdown-item" href="/about?tab=vizyon" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;">VİZYONUMUZ</a>
                                 
                             </div>
                         </li>

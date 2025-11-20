@@ -2457,5 +2457,55 @@ a:hover {
     overflow-y: auto;  /* içerik taşarsa dikey kaydırma */
   }
 }
+@media (max-width: 576px) {
+    .custom-tabs {
+        gap: 15px;
+        flex-wrap: wrap;
+        border-bottom: none;
+    }
+
+    .custom-tabs .tab-link {
+        padding: 8px 12px;
+        font-size: 14px;
+        border-bottom: 2px solid transparent;
+    }
+}
+
+
+.custom-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 30px;
+}
+
+.custom-tabs .tab-link {
+    padding: 12px 20px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    color: #555;
+    border-bottom: 3px solid transparent;
+    transition: 0.3s;
+}
+
+.custom-tabs .tab-link:hover {
+    color: #000;
+}
+
+.custom-tabs .tab-link.active {
+    color: #2f67ff;
+    border-bottom: 3px solid #2f67ff;
+}
+.vision-inner-section .tab-pane {
+    display: none; /* default gizle */
+}
+
+.vision-inner-section .tab-pane.active {
+    display: block; /* active olanı göster */
+}
+
+
 
 /* Preloader -------------------------------------------------------*/

@@ -12,8 +12,8 @@
 <section class="cases-section contact-cases-section w-100 float-left padding-bottom padding-top">
     <div class="container">
         <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
-            <h2>YENİ VAKA ÇALIŞMALARI</h2>
-            <p>Müşterilerimizin işlerini yenilemelerine yardımcı oluyoruz</p>
+            <h2>SİZLERE BİR ADIM UZAKTAYIZ</h2>
+            <p>Ücretsiz danışmanlık için iletişime geçebilirsiniz</p>
         </div>
         <div class="cases-inner-section" data-aos="fade-up" data-aos-duration="700">
             <!-- Telefon kutusu -->
@@ -108,7 +108,7 @@
         <div class="register-inner-section" data-aos="fade-up" data-aos-duration="700">
             <h2>EN İYİ MÜŞTERİ DENEYİMİNİ SUNUYORUZ</h2>
             <div class="generic-btn">
-                <a href="services.html">HAYDİ BAŞLAYALIM</a>
+                <a href="/about">HAYDİ BAŞLAYALIM</a>
             </div>
         </div>
     </div>

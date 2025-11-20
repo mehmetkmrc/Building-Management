@@ -2,7 +2,7 @@
     <section class="sub-banner-section about-page-banner w-100 float-left d-flex align-items-center">
     <div class="container">
         <div class="sub-banner-inner-section" data-aos="fade-up" data-aos-duration="700">
-            <h1>HAKKIMIZDA</h1>
+            <h1>KURUMSAL</h1>
         </div>
     </div>
 </section>
@@ -12,28 +12,56 @@
 <!-- HAKKIMIZDA VİZYON BÖLÜMÜ BURADA BAŞLIYOR -->
 <section class="about-vision-section w-100 float-left padding-top padding-bottom">
     <div class="container">
-        <div class="vision-inner-section">
-            <div class="vision-text-con" data-aos="fade-up" data-aos-duration="700">
-                <h2>VİZYONUMUZ
-                    BAŞARILI
-                    İŞLER</h2>
-                <p> Kalkedon Yönetim ve Danışmanlık Limited Şirketi, hukuk fakültesi mezunu yöneticiler tarafından kurulmuş, apartman ve site yönetiminde profesyonel hizmet sunan bir şirkettir. </p>
-                <p>Misyonumuz; güvenilir, şeffaf ve kaliteli yönetim anlayışımızla, bina ve apartman sakinlerinin yaşamını kolaylaştırmak ve huzurlu bir yaşam alanı sunmaktır. Şirketimiz bünyesinde avukat, mali müşavir ve teknik personel kadrolu olarak görev almakta; böylece yönetim süreçlerinde hem hukuki hem de mali ve teknik konularda profesyonel destek sağlanmaktadır. </p>
-                <p >Genç, dinamik ve alanında uzman ekibimizle tüm süreçleri titizlikle yürütüyor; yasal mevzuata uygun, hesap verilebilir ve sürdürülebilir bir yönetim anlayışı benimsiyoruz.</p>
-            </div>
-            <div class="vision-img-con" data-aos="fade-up" data-aos-duration="700">
-                <div class="vision-imgs-box position-relative">
-                    <figure class="mb-0">
-                        <img src="public/assets/images/vision-img.jpg" alt="vision-img" loading="lazy">
-                    </figure>
-                    <figure class="vision-scope-img mb-0">
-                        <img src="public/assets/images/vision-scope-img.png" alt="vision-scope-img" loading="lazy">
-                    </figure>
-                </div>
-            </div>
+
+        <!-- TAB BUTTONS — İKİ KOLONDAN ÖNCE -->
+        <!-- TAB BAŞLIKLARI (Bootstrap yapısı) -->
+<ul class="nav nav-tabs blog-tabs-inner-section justify-content-center" role="tablist">
+    <li class="nav-item">
+        <a class="nav-link active" style="color:#917d0e" data-tab="hakkimizda" href="#hakkimizda" role="tab">HAKKIMIZDA</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" style="color:#917d0e" data-tab="misyon" href="#misyon" role="tab">MİSYONUMUZ</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" style="color:#917d0e" data-tab="vizyon" href="#vizyon" role="tab">VİZYONUMUZ</a>
+    </li>
+</ul>
+<br>
+
+<!-- TAB İÇERİKLERİ: .tab-content container ve .tab-pane paneller -->
+<div class="tab-content vision-inner-section">
+    <div class="vision-text-con">
+        <div id="hakkimizda" class="tab-pane active" role="tabpanel">
+            <h2>HAKKIMIZDA</h2>
+            <p>Kalkedon Yönetim ve Danışmanlık Limited Şirketi, hukuk fakültesi mezunu yöneticiler tarafından kurulmuş, apartman ve site yönetiminde profesyonel hizmet sunan bir şirkettir.</p>
+        </div>
+
+        <div id="misyon" class="tab-pane" role="tabpanel">
+            <h2>MİSYONUMUZ</h2>
+            <p>Misyonumuz; güvenilir, şeffaf ve kaliteli yönetim anlayışımızla, bina ve apartman sakinlerinin yaşamını kolaylaştırmak ve huzurlu bir yaşam alanı sunmaktır. Şirketimiz bünyesinde avukat, mali müşavir ve teknik personel kadrolu olarak görev almakta; böylece yönetim süreçlerinde hem hukuki hem de mali ve teknik konularda profesyonel destek sağlanmaktadır.</p>
+        </div>
+
+        <div id="vizyon" class="tab-pane" role="tabpanel">
+            <h2>VİZYONUMUZ</h2>
+            <p>Genç, dinamik ve alanında uzman ekibimizle tüm süreçleri titizlikle yürütüyor; yasal mevzuata uygun, hesap verilebilir ve sürdürülebilir bir yönetim anlayışı benimsiyoruz.</p>
         </div>
     </div>
+    <div class="vision-img-con">
+                <div class="vision-imgs-box position-relative">
+                    <figure class="mb-0">
+                        <img src="public/assets/images/vision-img.jpg" alt="">
+                    </figure>
+                    <figure class="vision-scope-img mb-0">
+                        <img src="public/assets/images/vision-scope-img.png" alt="">
+                    </figure>
+                </div>
+    </div>
+</div>
+
+    </div>
 </section>
+
+
 <!-- HAKKIMIZDA VİZYON BÖLÜMÜ BURADA BİTİYOR -->
 
 <!-- MİSYON BÖLÜMÜ BURADA BAŞLIYOR -->
@@ -45,7 +73,7 @@
                 <br> huzurlu bir yaşam alanı sunuyoruz.
             </p>
             <div class="generic-btn">
-                <a href="services.html">DAHA FAZLA KEŞFET</a>
+                <a href="/about">DAHA FAZLA KEŞFET</a>
             </div>
         </div>
     </div>

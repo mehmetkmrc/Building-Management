@@ -10,7 +10,7 @@
                                 <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">Kalkedon yönetime hoşgeldiniz!</span>
                                 <h1 style="font-family: 'Cinzel', serif; font-weight:900;">HUKUKUN REHBERLİĞİNDE <br> PROFESYONEL YÖNETİM</h1>
                                 <div class="generic-btn">
-                                    <a href="services.html" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
+                                    <a href="/about" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                                 <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">Kalkedon yönetimden selamlar!</span>
                                 <h1 style="font-family: 'Cinzel', serif; font-weight:900;">ŞEFFAF YÖNETİM <br> HUZURLU YAŞAM</h1>
                                 <div class="generic-btn">
-                                    <a href="services.html" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
+                                    <a href="/about" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
                                 </div>
                             </div>
                         </div>
@@ -28,7 +28,7 @@
                                 <span class="d-block" style="font-family: 'Cinzel', serif; font-weight:900;">Kalkedon yönetime hoşgeldiniz!</span>
                                 <h1 style="font-family: 'Cinzel', serif; font-weight:900;">TÜM KONUT <br> TÜRLERİ İÇİN DANIŞMANLIK</h1>
                                 <div class="generic-btn">
-                                    <a href="services.html" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
+                                    <a href="/about" style="font-family: 'Cinzel', serif; font-weight:900;">DAHA FAZLA KEŞFET</a>
                                 </div>
                             </div>
                         </div>
@@ -59,7 +59,7 @@
                         <h4>HAKKIMIZDA </h4>
                         <p>Kalkedon Yönetim ve Danışmanlık Limited Şirketi, hukuk fakültesi mezunu yöneticiler tarafından kurulmuş, apartman ve site yönetiminde profesyonel hizmet sunan bir şirkettir.</p>
                         <div class="consulting-services-img-con d-flex align-items-center">
-                            <a href="single-service.html">DAHA FAZLA OKU</a>
+                            <a href="/about?tab=hakkimizda">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
                                 <img src="public/assets/images/consulting-service-icon1.png" alt="consulting-service-icon1"
                                     loading="lazy">
@@ -71,8 +71,7 @@
                         <p>Güvenilir, şeffaf ve kaliteli yönetim anlayışımızla, apartman ve site sakinlerinin yaşamını kolaylaştırmak...
 </p>
                         <div class="consulting-services-img-con d-flex align-items-center">
-                            
-                            <a href="single-service.html">DAHA FAZLA OKU</a>
+                            <a href="/about?tab=misyon">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
                                 <img src="public/assets/images/consulting-service-icon2.png" alt="consulting-service-icon2"
                                     loading="lazy">
@@ -83,7 +82,7 @@
                         <h4>VİZYONUMUZ</h4>
                         <p>Türkiye’de site ve apartman yönetiminde güvenin, şeffaflığın ve profesyonelliğin simgesi haline gelmek...</p>
                         <div class="consulting-services-img-con d-flex align-items-center">
-                            <a href="single-service.html">DAHA FAZLA OKU</a>
+                            <a href="/about?tab=vizyon">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
                                 <img src="public/assets/images/consulting-service-icon3.png" alt="consulting-service-icon3"
                                     loading="lazy">
@@ -107,7 +106,7 @@
                     <br> huzurlu bir yaşam alanı sunuyoruz.
                 </p>
                 <div class="generic-btn">
-                    <a href="services.html">DAHA FAZLASINI KEŞFET</a>
+                    <a href="/about">DAHA FAZLASINI KEŞFET</a>
                 </div>
             </div>
         </div>
@@ -125,7 +124,7 @@
             <div class="cases-inner-section" data-aos="fade-up" data-aos-duration="700">
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/case-img3.jpg" alt="case-img1" loading="lazy">
+                        <img src="public/assets/images/editlenecek-apartman-yonetimi1.jpg" alt="case-img1" loading="lazy">
                     </figure>
                     <div class="case-text-box">
                         <figure>
@@ -137,7 +136,7 @@
                 </div>
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/case-img2.jpg" alt="case-img2" loading="lazy">
+                        <img src="public/assets/images/editlenecek-site-yonetimi1.jpg" alt="case-img2" loading="lazy">
                     </figure>
                     <div class="case-text-box">
                         <figure>
@@ -173,7 +172,7 @@
                     <br> ihtiyaçlara hızlı ve etkili şekilde cevap veriyoruz.
                 </p>
                 <div class="generic-btn">
-                    <a href="services.html">DAHA FAZLASINI KEŞFET</a>
+                    <a href="/about">DAHA FAZLASINI KEŞFET</a>
                 </div>
             </div>
         </div>
@@ -183,107 +182,188 @@
     <!-- MISSION SECTION END HERE -->
     <!-- FAQ SECTION START HERE -->
     <section class="faq-main-section w-100 float-left padding-top padding-bottom">
-        <div class="container">
-            <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
-                <h2>SORULAR VE CEVAPLAR</h2>
-                <p>Daha fazla sorunuz varsa, bizimle iletişime geçin</p>
+   <div class="container">
+      <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
+         <h2>SORULAR VE CEVAPLAR</h2>
+         <p>Daha fazla sorunuz varsa, bizimle iletişime geçin</p>
+      </div>
+      <div class="faq-outer-con">
+         <div class="faq-box">
+            <div id="accordion">
+               <div class="card" data-aos="fade-up" data-aos-duration="700">
+                  <div class="card-header" id="headingOne">
+                     <h5 class="mb-0">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
+                           aria-expanded="true" aria-controls="collapseOne" style="white-space: normal;">
+                        <span class="d-inline-block">1.</span> Kalkedon Yönetim & Danışmanlık olarak tam olarak hangi hizmetleri sunuyorsunuz?
+                        </button>
+                     </h5>
+                  </div>
+                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                     data-parent="#accordion">
+                     <div class="card-body">
+                        Kalkedon, apartman ve site yönetimi alanında hukuki, mali ve teknik tüm süreçleri profesyonel ekibiyle yürütür.
+                        Aidat takibi, yıllık bütçe planlaması, resmi yazışmalar, teknik bakım-onarım takibi, temizlik–güvenlik hizmetlerinin koordinasyonu ve Kat Mülkiyeti Kanunu’na uygun yönetim süreçleri tarafımızca titizlikle sağlanır.
+                     </div>
+                  </div>
+               </div>
+               <div class="card" data-aos="fade-up" data-aos-duration="700">
+                  <div class="card-header" id="headingTwo">
+                     <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                           data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <span class="d-inline-block">2.</span> Yönetim şirketi ile çalışmanın avantajı nedir?
+                        </button>
+                     </h5>
+                  </div>
+                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                     data-parent="#accordion">
+                     <div class="card-body">
+                        Profesyonel bir yönetim şirketi;
+                        <ul>
+                           <li>Gelir–gider hesaplarının şeffaf tutulmasını,</li>
+                           <li>Yasal süreçlerin doğru yürütülmesini,</li>
+                           <li>Teknik problemlerin hızlı çözülmesini,</li>
+                           <li>Hak ve yükümlülüklerin net olmasını sağlar.</li>
+                        </ul>
+                        Bu da bina sakinlerine huzurlu, güvenli ve sürdürülebilir bir yaşam alanı sunar.
+                     </div>
+                  </div>
+               </div>
+               <div class="card" data-aos="fade-up" data-aos-duration="700">
+                  <div class="card-header" id="headingThree">
+                     <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                           data-target="#collapseThree" aria-expanded="false"
+                           aria-controls="collapseThree" style="white-space: normal;">
+                        <span class="d-inline-block">3.</span> Aidatlar nasıl belirleniyor ve neye göre harcanıyor?
+                        </button>
+                     </h5>
+                  </div>
+                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                     data-parent="#accordion">
+                     <div class="card-body">
+                        Aidat tutarları, yıllık işletme bütçesi hazırlanarak, ortak giderler dikkate alınarak belirlenir.
+                        Toplanan aidatlar;
+                        <ul>
+                           <li>Temizlik,</li>
+                           <li>Elektrik–su ortak alan tüketimi,</li>
+                           <li>Asansör bakım ve ruhsat giderleri,</li>
+                           <li>Sigorta,</li>
+                           <li>Teknik onarım,</li>
+                           <li>Personel giderleri</li>
+                        </ul>
+                        gibi kalemlerde kullanılır. Tüm gelir–giderler aylık rapor şeklinde sakinlerle paylaşılır.
+                     </div>
+                  </div>
+               </div>
+               <div class="card" data-aos="fade-up" data-aos-duration="700">
+                  <div class="card-header" id="headingFour">
+                     <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                           data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="white-space: normal;">
+                        <span class="d-inline-block">4.</span> Binamızda bir hukuki problem olursa nasıl bir destek sağlıyorsunuz?
+                        </button>
+                     </h5>
+                  </div>
+                  <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                     data-parent="#accordion">
+                     <div class="card-body">
+                        Kalkedon’un yönetici kadrosunda hukuk mezunları yer aldığı için;
+                        <ul>
+                           <li>Borçlu daireler,</li>
+                           <li>Tahliye süreçleri,</li>
+                           <li>Ortak alan ihtilafları,</li>
+                           <li>Yönetim planı uyuşmazlıkları</li>
+                        </ul>
+                        gibi konularda doğru yönlendirme yapılır. Gerekirse işbirliği yapılan avukatlar sürece dahil edilir.
+                     </div>
+                  </div>
+               </div>
+               <div class="card" data-aos="fade-up" data-aos-duration="700">
+                  <div class="card-header" id="headingFive">
+                     <h5 class="mb-0">
+                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                           data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        <span class="d-inline-block">5.</span> Bina bütçesini ve harcamaları nasıl takip edebilirim?
+
+                        </button>
+                     </h5>
+                  </div>
+                  <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                     data-parent="#accordion">
+                     <div class="card-body">
+                        Sakinlere düzenli olarak:
+                        <ul>
+                            <li>Aylık gelir–gider raporu,</li>
+                            <li>Yıllık faaliyet raporu,</li>
+                            <li>Bakiye ve cari hesap özeti</li>
+                        </ul>
+                        sunulur. Talep eden sakinler tüm belgeleri dijital olarak görebilir, böylece tam şeffaflık sağlanır.
+                     </div>
+                  </div>
+               </div>
             </div>
-            <div class="faq-outer-con">
+         </div>
+        <div class="faq-img-con">
+            <figure data-aos="fade-up" data-aos-duration="700">
+                <img src="public/assets/images/faq-img.jpg" alt="sık-sorulan-sorular" loading="lazy">
+            </figure>
+            <div class="faq-box">
+                    <div id="accordion">
+                        <div class="card" data-aos="fade-up" data-aos-duration="700">
+                        <div class="card-header" id="headingSix">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link collapsed" data-toggle="collapse"
+                                    data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix" style="white-space: normal;">
+                                <span class="d-inline-block">6.</span> Binamızda bir hukuki problem olursa nasıl bir destek sağlıyorsunuz?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                            data-parent="#accordion">
+                            <div class="card-body">
+                                Kalkedon’un yönetici kadrosunda hukuk mezunları yer aldığı için;
+                                <ul>
+                                    <li>Borçlu daireler,</li>
+                                    <li>Tahliye süreçleri,</li>
+                                    <li>Ortak alan ihtilafları,</li>
+                                    <li>Yönetim planı uyuşmazlıkları</li>
+                                </ul>
+                                gibi konularda doğru yönlendirme yapılır. Gerekirse işbirliği yapılan avukatlar sürece dahil edilir.
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="faq-box">
                     <div id="accordion">
                         <div class="card" data-aos="fade-up" data-aos-duration="700">
-                            <div class="card-header" id="headingOne">
-                                <h5 class="mb-0">
-                                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
-                                        aria-expanded="true" aria-controls="collapseOne">
-                                        <span class="d-inline-block">1.</span> GELECEĞİ DÜŞÜNÜN VE İŞİNİZİ BÜYÜTÜN
-                                    </button>
-                                </h5>
-                            </div>
-
-                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
-                                data-parent="#accordion">
-                                <div class="card-body">
-                                    Çoğu metin üzerinde yapılan değişiklikler, yer yer mizah eklenmesi ya da rastgele kelimelerle
-                                    oluşturulması gibi farklılıklar içerebilir.
-                                </div>
+                        <div class="card-header" id="headingSeven">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link collapsed" data-toggle="collapse"
+                                    data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven" style="white-space: normal;">
+                                <span class="d-inline-block">7.</span> Fiyatlandırma nasıl belirleniyor?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven"
+                            data-parent="#accordion">
+                            <div class="card-body">
+                                Bina büyüklüğü, daire sayısı, teknik sistemler (asansör, kamera, güvenlik, jeneratör) ve hizmet kapsamına göre net bir teklif hazırlanır.
+Tamamen bütçe dostu ve şeffaf bir fiyatlandırma sunulur.
                             </div>
                         </div>
-                        <div class="card" data-aos="fade-up" data-aos-duration="700">
-                            <div class="card-header" id="headingTwo">
-                                <h5 class="mb-0">
-                                    <button class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <span class="d-inline-block">2.</span> DANIŞMANLIK UZMANLARI NASIL ÇALIŞIR?
-                                    </button>
-                                </h5>
-                            </div>
-                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
-                                data-parent="#accordion">
-                                <div class="card-body">
-                                    Çoğu metin üzerinde yapılan değişiklikler, yer yer mizah eklenmesi ya da rastgele kelimelerle
-                                    oluşturulması gibi farklılıklar içerebilir.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card" data-aos="fade-up" data-aos-duration="700">
-                            <div class="card-header" id="headingThree">
-                                <h5 class="mb-0">
-                                    <button class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        <span class="d-inline-block">3.</span> BÜYÜMEK İÇİN EN İYİ TAVSİYE NEDİR?
-                                    </button>
-                                </h5>
-                            </div>
-                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
-                                data-parent="#accordion">
-                                <div class="card-body">
-                                    Çoğu metin üzerinde yapılan değişiklikler, yer yer mizah eklenmesi ya da rastgele kelimelerle
-                                    oluşturulması gibi farklılıklar içerebilir.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card" data-aos="fade-up" data-aos-duration="700">
-                            <div class="card-header" id="headingFour">
-                                <h5 class="mb-0">
-                                    <button class="btn btn-link collapsed" data-toggle="collapse"
-                                        data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                        <span class="d-inline-block">4.</span> İŞİNİZİ NASIL GELİŞTİREBİLİRSİNİZ?
-                                    </button>
-                                </h5>
-                            </div>
-                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
-                                data-parent="#accordion">
-                                <div class="card-body">
-                                    Çoğu metin üzerinde yapılan değişiklikler, yer yer mizah eklenmesi ya da rastgele kelimelerle
-                                    oluşturulması gibi farklılıklar içerebilir.
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="faq-img-con">
-                    <figure data-aos="fade-up" data-aos-duration="700">
-                        <img src="public/assets/images/faq-img.jpg" alt="sık-sorulan-sorular" loading="lazy">
-                    </figure>
-                    <div class="faq-list-con" data-aos="fade-up" data-aos-duration="700">
-                        <ul class="list-unstyled mb-0">
-                            <li>Kaliteli danışmanlık hizmeti.</li>
-                            <li>Profesyonel ve güvenilir ekip.</li>
-                            <li>İşiniz için stratejik çözümler.</li>
-                            <li>Sorularınız için her zaman buradayız.</li>
-                            <li>Yılların deneyimiyle fark yaratıyoruz.</li>
-                        </ul>
-                        <div class="exp-years">
-                            <span class="d-block">35</span>
-                            <small class="d-block">Yıllık Deneyim</small>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                
+            
         </div>
-    </section>
+         
+      </div>
+   </div>
+</section>
 
     <!-- FAQ SECTION END HERE -->
     
