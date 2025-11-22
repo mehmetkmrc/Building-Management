@@ -380,14 +380,14 @@ Tamamen bütçe dostu ve şeffaf bir fiyatlandırma sunulur.
                         <img src="public/assets/images/blog-img1.jpg" alt="blog-img1" loading="lazy">
                     </figure>
                     <div class="blog-text-details">
-                        <div class="posting-date">13 EKİ</div>
+                        <div class="posting-date">20 KASIM</div>
                         <div class="comments">
                             <span>YAZAN: ADMIN / <small>2 YORUM</small></span>
                         </div>
-                        <h4><a href="blog.html">İŞ BÜYÜME İÇİN TAVSİYELER</a></h4>
-                        <p>Aellentesque porttitor lacus quis enim varius sed efficitur turpis gilla sed sit amet.</p>
+                        <h4><a href="/Blog/show/bina-isletme-projesi-nedir">Bina İşletme Projesi Nedir? Nasıl Hazırlanır? Detayları Nelerdir?</a></h4>
+                        <p>Binaların güvenli, düzenli ve sürdürülebilir bir şekilde yönetilebilmesi için en önemli unsurlardan biri Bina İşletme Projesidir...</p>
                         <div class="blog-btn position-relative">
-                            <a href="blog.html">DEVAMI</a>
+                            <a href="/Blog/show/bina-isletme-projesi-nedir">DEVAMI</a>
                         </div>
                     </div>
                 </div>
@@ -396,14 +396,15 @@ Tamamen bütçe dostu ve şeffaf bir fiyatlandırma sunulur.
                         <img src="public/assets/images/blog-img2.jpg" alt="blog-img2" loading="lazy">
                     </figure>
                     <div class="blog-text-details">
-                        <div class="posting-date">13 EKİ</div>
+                        <div class="posting-date">9 KASIM</div>
                         <div class="comments">
                             <span>YAZAN: ADMIN / <small>2 YORUM</small></span>
                         </div>
-                        <h4><a href="blog.html">İŞ BÜYÜME İÇİN TAVSİYELER</a></h4>
-                        <p>Aellentesque porttitor lacus quis enim varius sed efficitur turpis gilla sed sit amet.</p>
+                        <h4><a href="/Blog/show/apartman-yonetim-planinda-isletme-gideri">Apartman Yönetim Planında “İşletme Gideri” Ne Anlama Gelir?
+</a></h4>
+                        <p>Kat Mülkiyeti Kanunu ve apartman yönetim planlarına göre işletme gideri, apartmanın günlük, rutin ve düzenli işleyişi için yapılan harcamaların tümünü kapsar...</p>
                         <div class="blog-btn position-relative">
-                            <a href="blog.html">DEVAMI</a>
+                            <a href="/Blog/show/apartman-yonetim-planinda-isletme-gideri">DEVAMI</a>
                         </div>
                     </div>
                 </div>
@@ -412,14 +413,22 @@ Tamamen bütçe dostu ve şeffaf bir fiyatlandırma sunulur.
                         <img src="public/assets/images/blog-img3.jpg" alt="blog-img3" loading="lazy">
                     </figure>
                     <div class="blog-text-details">
-                        <div class="posting-date">13 EKİ</div>
+                        <div class="posting-date">7 KASIM</div>
                         <div class="comments">
                             <span>YAZAN: ADMIN / <small>2 YORUM</small></span>
                         </div>
-                        <h4><a href="blog.html">İŞ BÜYÜME İÇİN TAVSİYELER</a></h4>
-                        <p>Aellentesque porttitor lacus quis enim varius sed efficitur turpis gilla sed sit amet.</p>
+                        <h4><a href="/Blog/show/kat-malikleri-arasindaki-anlasmazliklarda-izlenecek-yol">Kat malikleri arasındaki anlaşmazlıklarda izlenecek yol</a></h4>
+                        <p>Kat Mülkiyeti Kanunu açıkça belirtir:
+
+Bir apartmanda tüm kuralların anayasası “Yönetim Planı”dır.
+
+Her türlü tartışmada ilk bakılacak belge budur.
+
+Yönetim...
+
+</p>
                         <div class="blog-btn position-relative">
-                            <a href="blog.html">DEVAMI</a>
+                            <a href="/Blog/show/kat-malikleri-arasindaki-anlasmazliklarda-izlenecek-yol">DEVAMI</a>
                         </div>
                     </div>
                 </div>

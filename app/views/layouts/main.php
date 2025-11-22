@@ -1,3 +1,6 @@
+<?php
+$isBlogDetail = isset($view) && $view === 'blog_detail';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,15 +23,34 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
     <title><?= htmlspecialchars($title ?? 'Kalkedon', ENT_QUOTES, 'UTF-8') ?></title>
+     <?php if (!$isBlogDetail): ?>
+        
+        <link rel="stylesheet" href="/public/assets/bootstrap/bootstrap.min.css?v=<?= filemtime('public/assets/bootstrap/bootstrap.min.css') ?>">
+        <link rel="stylesheet" href="/public/assets/css/aos.css?v=<?= filemtime('public/assets/css/aos.css') ?>">
+        <link rel="stylesheet" href="/public/assets/css/owl.carousel.css?v=<?= filemtime('public/assets/css/owl.carousel.css') ?>">
+        <link rel="stylesheet" href="/public/assets/css/custom.css?v=<?= filemtime('public/assets/css/custom.css') ?>">
+        <link rel="stylesheet" href="/public/assets/css/mobile.css?v=<?= filemtime('public/assets/css/mobile.css') ?>">
+    <?php else: ?>
 
-   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
-    <link rel="stylesheet" href="public/assets/bootstrap/bootstrap.min.css?v=<?= filemtime('public/assets/bootstrap/bootstrap.min.css') ?>">
-    <link rel="stylesheet" href="public/assets/css/aos.css?v=<?= filemtime('public/assets/css/aos.css') ?>">
-    <link rel="stylesheet" href="public/assets/css/owl.carousel.css?v=<?= filemtime('public/assets/css/owl.carousel.css') ?>">
-    <link rel="stylesheet" href="public/assets/css/custom.css?v=<?= filemtime('public/assets/css/custom.css') ?>">
-    <link rel="stylesheet" href="public/assets/css/mobile.css?v=<?= filemtime('public/assets/css/mobile.css') ?>">
+    <!-- Blog detail sayfasına özel CSS buraya -->
+    <link rel="stylesheet" href="../../public/assets/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="../../public/assets/css/aos.css">
+    <link rel="stylesheet" href="../../public/assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="../../public/assets/css/custom.css">
+    <link rel="stylesheet" href="../../public/assets/css/custom-style.css">
+    <link rel="stylesheet" href="../../public/assets/css/mobile.css">
+    <link rel="stylesheet" href="../../public/assets/css/responsive.css">
+    <link rel="stylesheet" href="../../public/assets/css/special-classes.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css">
+
+
+    <?php endif; ?>
+
+    
+
 
 </head>
 <body>
@@ -59,13 +81,24 @@
 
     <a id="button"></a>
     <!-- js start -->
-    <script src="public/assets/js/jquery.min.js"></script>
-    <script src="public/assets/js/popper.min.js"></script>
-    <script src="public/assets/js/bootstrap.min.js"></script>
-    <script src="public/assets/js/owl.carousel.js"></script>
-    <script src="public/assets/js/aos.js"></script>
-    <script src="public/assets/js/jquery.validate.js"></script>
-    <script src="public/assets/js/custom.js"></script>
+    <?php if (!$isBlogDetail): ?>
+        <script src="/public/assets/js/jquery.min.js"></script>
+        <script src="/public/assets/js/popper.min.js"></script>
+        <script src="/public/assets/js/bootstrap.min.js"></script>
+        <script src="/public/assets/js/owl.carousel.js"></script>
+        <script src="/public/assets/js/aos.js"></script>
+        <script src="/public/assets/js/jquery.validate.js"></script>
+        <script src="/public/assets/js/custom.js"></script>
+    <?php else: ?>
+        <script src="../../public/assets/js/jquery.min.js"></script>
+        <script src="../../public/assets/js/popper.min.js"></script>
+        <script src="../../public/assets/js/bootstrap.min.js"></script>
+        <script src="../../public/assets/js/owl.carousel.js"></script>
+        <script src="../../public/assets/js/aos.js"></script>
+        <script src="../../public/assets/js/jquery.validate.js"></script>
+        <script src="../../public/assets/js/custom.js"></script>
+    <?php endif; ?>
+    
     <script>
         $('#owl-carousel-customer').owlCarousel({
             loop: true,
@@ -249,13 +282,5 @@ document.addEventListener("DOMContentLoaded", function () {
 
 });
 </script>
-
-
-
-
-
-
-
-
 </body>
 </html>

@@ -15,6 +15,7 @@ building-management/
 |      |   ├──footer.php
 |      |   └──header.php             ← header, footer, navbar gibi küçük parçalar
 |      ├── home.php
+|      ├── blog_detail.php
 |      ├── about.php
 |      ├── blog.php
 |      ├── cases.php
@@ -23,7 +24,7 @@ building-management/
 ├──core/
 |   ├──App.php
 |   └──Controller.php
-├──
+├── public/
 |   ├──.htaccess
 │   ├── assets/
 |   |      ├──bootstrap/
@@ -33,6 +34,12 @@ building-management/
 |   |
 |   |
 │   └── Ornek HTML dosyaları/
+|   
+|──routes/
+|      └──web.php
+|──data/
+|      └──blogs.php
+|
 ├──router.php
 |
 └──index.php

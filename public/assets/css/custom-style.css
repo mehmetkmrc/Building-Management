@@ -1,9 +1,9 @@
 :root {
     --primary-color:#FFF;
-    --secondary-color:#0f0d1d;
-    --accent:#8f8da0;
-    --text-color: #726f84;
-    --button-color: #3c72fc;
+    --secondary-color:#1d1d0d;
+    --accent:#9da08d;
+    --text-color: #917d0e;;
+    --button-color: #DECAAF;
 }
 a {
 	outline:none;
