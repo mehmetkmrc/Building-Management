@@ -28,7 +28,6 @@
                     </ul>
                     <ul class="list-unstyled mb-0">
                         <li><a href="/">Destek</a></li>
-                        <li><a href="/">Kullanım Şartları</a></li>
                         <li><a href="/">Gizlilik Politikası</a></li>
                         <li><a href="/contact">Yardım</a></li>
                     </ul>

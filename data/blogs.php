@@ -3,9 +3,9 @@
 return [
     [
         "slug" => "bina-isletme-projesi-nedir",
-        "image" => "public/assets/images/single-blog-tab-img1.jpg",
-		"blogimage1" => "../../public/assets/images/singleblog-image1.jpg",
-		"blogimage2" => "../../public/assets/images/singleblog-image1.jpg",
+        "image" => "public/assets/images/bina-isletme-projesi.jpg",
+		"blogimage1" => "../../public/assets/images/bina-isletme-projesi.jpg",
+		"blogimage2" => "../../public/assets/images/bina-isletme-projesi.jpg",
         "title" => "Bina İşletme Projesi Nedir? Nasıl Hazırlanır? Detayları Nelerdir?",
         "summary" => "Binaların güvenli, düzenli ve sürdürülebilir bir şekilde yönetilebilmesi için en önemli unsurlardan biri Bina İşletme Projesidir. Özellikle asansör, kazan dairesi, otopark, güvenlik, yangın sistemi gibi ortak kullanımları bulunan apartman ve sitelerde işletme projesi; hem yasal bir gereklilik hem de düzenli yönetimin temel taşıdır.",
         "content" => "🔎 Bina İşletme Projesi Nedir?
@@ -183,9 +183,9 @@ return [
     ],
     [
         "slug" => "apartman-yonetim-planinda-isletme-gideri",
-        "image" => "public/assets/images/single-blog-tab-img2.jpg",
-		"blogimage1" => "../../public/assets/images/singleblog-image1.jpg",
-		"blogimage2" => "../../public/assets/images/singleblog-image1.jpg",
+        "image" => "public/assets/images/apartman-yonetim-plani.jpg",
+		"blogimage1" => "../../public/assets/images/apartman-yonetim-plani.jpg",
+		"blogimage2" => "../../public/assets/images/apartman-yonetim-plani.jpg",
         "title" => "Apartman Yönetim Planında “İşletme Gideri” Ne Anlama Gelir?",
         "summary" => "Apartman ve site yaşamında en çok tartışma konusu olan noktalardan biri, işletme giderleri ile arıza giderlerinin ayrımıdır. Hangi masrafa kim katılır? Asansör arızasını kim öder? İşte bu soruların cevabı büyük ölçüde yönetim planına bağlıdır.
 			Bu yazıda; işletme giderinin tanımını, arıza gideriyle farkını, asansör giderlerine kimin katılacağını ve yönetim planının bu süreçteki belirleyici rolünü detaylı şekilde ele alıyoruz.
@@ -293,9 +293,9 @@ return [
     ],
     [
         "slug" => "kat-malikleri-arasindaki-anlasmazliklarda-izlenecek-yol",
-        "image" => "public/assets/images/single-blog-tab-img3.jpg",
-		"blogimage1" => "../../public/assets/images/singleblog-image1.jpg",
-		"blogimage2" => "../../public/assets/images/singleblog-image1.jpg",
+        "image" => "public/assets/images/kat-maliki-arasindaki.jpg",
+		"blogimage1" => "../../public/assets/images/kat-maliki-arasindaki.jpg",
+		"blogimage2" => "../../public/assets/images/kat-maliki-arasindaki.jpg",
         "title" => "Kat malikleri arasındaki anlaşmazlıklarda izlenecek yol",
         "summary" => "Apartman ve site yönetimlerinde en sık karşılaşılan sorunlardan biri, kat malikleri arasındaki anlaşmazlıklardır.
 			Bu anlaşmazmalar çoğu zaman iletişim eksikliğinden, yanlış anlamalardan veya yönetim planının bilinmemesinden kaynaklanır.

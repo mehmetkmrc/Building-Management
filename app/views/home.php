@@ -119,7 +119,6 @@
         <div class="container">
             <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
                 <h2>HİZMETLERİMİZ</h2>
-                <p>Müşterilerimizin işlerini yenilemelerine yardımcı oluyoruz</p>
             </div>
             <div class="cases-inner-section" data-aos="fade-up" data-aos-duration="700">
                 <div class="case-main-box position-relative">

@@ -2,13 +2,11 @@
     <div class="header-main-con w-100 float-left" style="background-color: #DECAAF; ">
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg navbar-light p-0">       
-                    <figure class="mb-0" style="display: flex; align-items: center; gap: 10px; margin: 0;">
-                    <img href="/" src="https://www.kalkedonyonetim.com/logo-header-8.jpg" 
+                    <figure href="/" class="mb-0" style="display: flex; align-items: center; gap: 10px; margin: 0;">
+                    <img href="/" src="https://www.kalkedonyonetim.com/logo-header-5.svg" 
                         alt="header-logo" 
                         loading="lazy" 
-                        style="width: 320px; height: 80px; margin-left: -15px;">
-                        
-                    
+                        style="width:350px; height:100px; margin-left:-70px">
                     </figure>
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
