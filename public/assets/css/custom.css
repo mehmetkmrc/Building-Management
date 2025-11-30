@@ -21,7 +21,7 @@ html {
 
 body {
     font-size: 15px;
-    line-height: 13px;
+    line-height: 17px;
     color: var(--text-color);
     font-weight: 400;
     font-family: 'Rubik', sans-serif;
@@ -1127,7 +1127,7 @@ a:hover {
     width: 90%;
     z-index: 2;
     float: right;
-    margin-top: -103px;
+    margin-top: -20px;
     position: relative;
     border: 1px solid #cacaca;
     padding: 35px 40px 46px 20px;

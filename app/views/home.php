@@ -57,7 +57,7 @@
                 <div class="consulting-services-inner-con" data-aos="fade-up" data-aos-duration="700">
                     <div class="consulting-services-box">
                         <h4>HAKKIMIZDA </h4>
-                        <p>Kalkedon Yönetim ve Danışmanlık Limited Şirketi, hukuk fakültesi mezunu yöneticiler tarafından kurulmuş, apartman ve site yönetiminde profesyonel hizmet sunan bir şirkettir.</p>
+                        <p>Kalkedon Yönetim ve Danışmanlık Limited Şirketi, hukuk ve mühendislik fakültesi mezunu yöneticiler tarafından kurulmuş, apartman ve site yönetiminde profesyonel hizmet sunan bir şirkettir.</p>
                         <div class="consulting-services-img-con d-flex align-items-center">
                             <a href="/about?tab=hakkimizda">DAHA FAZLA OKU</a>
                             <figure class="mb-0">
@@ -376,7 +376,7 @@ Tamamen bütçe dostu ve şeffaf bir fiyatlandırma sunulur.
             <div class="blog-inner-section" data-aos="fade-up" data-aos-duration="700">
                 <div class="blog-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/blog-img1.jpg" alt="blog-img1" loading="lazy">
+                        <img src="public/assets/images/bina-isletme-projesi.jpg" alt="blog-img1" loading="lazy" style="width:100%">
                     </figure>
                     <div class="blog-text-details">
                         <div class="posting-date">20 KASIM</div>
@@ -392,7 +392,7 @@ Tamamen bütçe dostu ve şeffaf bir fiyatlandırma sunulur.
                 </div>
                 <div class="blog-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/blog-img2.jpg" alt="blog-img2" loading="lazy">
+                        <img src="public/assets/images/apartman-yonetim-plani.jpg" alt="blog-img2" loading="lazy" style="width:100%">
                     </figure>
                     <div class="blog-text-details">
                         <div class="posting-date">9 KASIM</div>
@@ -409,7 +409,7 @@ Tamamen bütçe dostu ve şeffaf bir fiyatlandırma sunulur.
                 </div>
                 <div class="blog-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/blog-img3.jpg" alt="blog-img3" loading="lazy">
+                        <img src="public/assets/images/kat-maliki-arasindaki.jpg" alt="blog-img3" loading="lazy" style="width:100%">
                     </figure>
                     <div class="blog-text-details">
                         <div class="posting-date">7 KASIM</div>

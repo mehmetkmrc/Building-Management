@@ -2,12 +2,30 @@
     <div class="header-main-con w-100 float-left" style="background-color: #DECAAF; ">
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg navbar-light p-0">       
-                    <figure href="/" class="mb-0" style="display: flex; align-items: center; gap: 10px; margin: 0;">
-                    <img href="/" src="https://www.kalkedonyonetim.com/logo-header-5.svg" 
-                        alt="header-logo" 
-                        loading="lazy" 
-                        style="width:350px; height:100px; margin-left:-70px">
+                    <figure class="mb-0 logo-wrapper" style="display: flex; align-items: center; gap: 10px; margin: 0;">
+                        <!-- MASAÜSTÜ LOGO -->
+                        <img class="logo-desktop"
+                            src="https://www.kalkedonyonetim.com/logo-header-5.svg"
+                            alt="header-logo"
+                            loading="lazy"
+                            style="width:350px; height:100px; margin-left:-70px">
+
+                        <!-- MOBİL LOGO -->
+                         <img class="logo-mobile"  href="/" src="https://www.kalkedonyonetim.com/icon-kopya-4.svg" 
+                            alt="header-logo" 
+                            loading="lazy" 
+                            style="width: 90px; height: 90px; margin-left:-20px">
+                            
+                        <div style="display: flex; flex-direction: column; line-height: 1;" class="logo-mobile">
+                                <a class="logo-mobile" href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size: 34px; margin-left:-20px">KALKEDON</a>
+                                <a class="logo-mobile" href="/" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size: 14.5px; margin-left:-20px">YÖNETİM & DANIŞMANLIK</a>
+                        </div>
+                            
+                        
+                        
+                        
                     </figure>
+
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="Toggle navigation">

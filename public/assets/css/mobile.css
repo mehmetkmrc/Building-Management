@@ -1,4 +1,22 @@
+@media only screen and (min-width: 1900px) {
+    .logo-desktop {
+        display: block;
+    }
+
+    .logo-mobile {
+        display: none;
+    }
+}
+
+
 @media only screen and (max-width: 1900px) {
+    .logo-desktop {
+        display: block;
+    }
+
+    .logo-mobile {
+        display: none;
+    }
     .header-main-con .navbar-nav {
         gap: 40px;
     }
@@ -41,6 +59,13 @@
 }
 
 @media only screen and (max-width: 1600px) {
+    .logo-desktop {
+        display: block;
+    }
+
+    .logo-mobile {
+        display: none;
+    }
     .header-main-con .navbar-nav {
         gap: 16px;
     }
@@ -375,6 +400,13 @@
 }
 
 @media only screen and (max-width: 1400px) {
+    .logo-desktop {
+        display: block;
+    }
+
+    .logo-mobile {
+        display: none;
+    }
     .header-main-con .navbar-light .navbar-nav .nav-link {
         color: var(--primary-color);
         font-size: 16px;
@@ -1603,6 +1635,14 @@
 
 @media only screen and (max-width: 991px) {
 
+    .logo-desktop {
+        display: none;
+    }
+
+    .logo-mobile {
+        display: block;
+    }
+
     /*cross-button*/
     .navbar-toggler {
         right: 0px;
@@ -2352,6 +2392,13 @@
 }
 
 @media only screen and (max-width: 767px) {
+    .logo-desktop {
+        display: none;
+    }
+
+    .logo-mobile {
+        display: block;
+    }
     .banner-main-section {
         height: 420px;
     }
@@ -2975,6 +3022,13 @@
 }
 
 @media only screen and (max-width: 575px) {
+    .logo-desktop {
+        display: none;
+    }
+
+    .logo-mobile {
+        display: block;
+    }
     .navbar-collapse {
         width: 290px;
     }
