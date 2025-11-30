@@ -68,7 +68,7 @@
         <div class="contact-form-inner-con text-center">
             <div class="generic-title" data-aos="fade-up" data-aos-duration="700">
                 <h2>İLETİŞİME GEÇİN</h2>
-                <p>Müşterilerimizin işlerini yenilemelerine yardımcı oluyoruz</p>
+                <p></p>
             </div>
             <div class="sub-page-form" data-aos="fade-up" data-aos-duration="700">
                 <form class="form-box" method="post" action="https://formsubmit.co/info@kalkedonyonetim.com" id="contactpage">

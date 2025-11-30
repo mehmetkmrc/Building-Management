@@ -2505,6 +2505,23 @@ a:hover {
 .vision-inner-section .tab-pane.active {
     display: block; /* active olanı göster */
 }
+#misyon p {
+    margin-bottom: 20px;
+    line-height: 1.8;
+    font-size: 16px;
+    
+}
+#vizyon p {
+    margin-bottom: 20px;
+    line-height: 1.8;
+    font-size: 16px;
+    
+}
+.case-text-box a {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    white-space: normal;
+}
 
 
 
