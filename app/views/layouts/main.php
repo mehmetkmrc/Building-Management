@@ -24,7 +24,7 @@ $isBlogDetail = isset($view) && $view === 'blog_detail';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Kalkedon Yönetim, Kadıköy ve çevresinde profesyonel bina ve site yönetimi hizmetleri sunar. Hukuki, mali ve teknik yönetimde uzman kadro.">
+    <meta name="description" content="Kalkedon Yönetim, Kadıköy, Göztepe, Bostancı ve Fenerbahçe bölgelerinde profesyonel bina ve apartman yönetimi hizmetleri sunar. Hukuki, mali ve teknik yönetimde uzman kadro.">
     <link rel="apple-touch-icon" sizes="57x57" href="https://www.kalkedonyonetim.com/icon-1.svg">
     <link rel="apple-touch-icon" sizes="60x60" href="https://www.kalkedonyonetim.com/icon-1.svg">
     <link rel="apple-touch-icon" sizes="72x72" href="https://www.kalkedonyonetim.com/icon-1.svg">
