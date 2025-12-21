@@ -33,7 +33,40 @@
     <div class="vision-text-con">
         <div id="hakkimizda" class="tab-pane active" role="tabpanel">
             <h2>HAKKIMIZDA</h2>
-            <p>Kalkedon Yönetim ve Danışmanlık Limited Şirketi, hukuk ve mühendislik fakültesi mezunu yöneticiler tarafından kurulmuş, apartman ve site yönetiminde profesyonel hizmet sunan bir şirkettir. Şirketimiz bünyesinde avukat, mali müşavir ve teknik personel kadrolu olarak görev almakta; böylece yönetim süreçlerinde h hukuki, mali ve teknik konularda profesyonel destek sağlanmaktadır.</p>
+            <p>
+Kalkedon Yönetim ve Danışmanlık Limited Şirketi, hukuk ve mühendislik fakültesi mezunu yöneticiler tarafından kurulmuş, apartman ve site yönetiminde profesyonel hizmet sunan bir şirkettir.
+</p>
+<p>
+    Şirketimiz bünyesinde avukat, mali müşavir ve teknik personel kadrolu olarak görev almakta; böylece yönetim süreçlerinde hukuki, mali ve teknik konularda profesyonel destek sağlanmaktadır.
+</p>
+
+<p>
+    Şirketimiz, bina ve site yönetiminin yalnızca günlük operasyonlardan ibaret olmadığı bilinciyle; hukuki, mali, teknik ve idari süreçleri bir bütün olarak ele alan çok disiplinli bir yönetim anlayışı benimsemektedir. Bu kapsamda bünyemizde avukat, mali müşavir ve teknik personel kadrolu olarak görev almakta; böylece yönetim faaliyetleri, alanında uzman kişiler tarafından mevzuata uygun, planlı ve denetlenebilir şekilde yürütülmektedir.
+</p>
+
+<p>
+    Kalkedon Yönetim, Kat Mülkiyeti Kanunu ve ilgili mevzuata tam uyumlu yönetim modelleri geliştirerek; kat maliklerinin hak ve menfaatlerini koruyan, mali şeffaflığı esas alan ve teknik altyapının güvenli şekilde işletilmesini sağlayan çözümler üretir. Yönetim planlarının hazırlanmasından bütçe ve aidat yönetimine, teknik işletmeden hukuk danışmanlığına kadar tüm süreçler profesyonel standartlarda ele alınır.
+</p>
+
+<p>
+Hizmet verdiğimiz bina ve sitelerde;
+</p>
+
+<ul class="service-list">
+    <li>Şeffaf mali yönetim</li>
+    <li>Güçlü hukuki altyapı</li>
+    <li>Etkin teknik destek</li>
+    <li>Düzenli raporlama ve denetim</li>
+    <li>Açık ve sürekli iletişim</li>
+</ul>
+
+<p>
+ilkeleri esas alınmaktadır.
+</p>
+<p>
+    Kalkedon Yönetim ve Danışmanlık Limited Şirketi olarak hedefimiz; yönetimini üstlendiğimiz bina ve tesislerde düzeni sağlamakla kalmayıp, yaşam kalitesini artıran, değerini koruyan ve uzun vadede sürdürülebilir bir yönetim anlayışı oluşturmaktır.
+</p>
+
         </div>
 
         <div id="misyon" class="tab-pane" role="tabpanel" style="text-align: left">

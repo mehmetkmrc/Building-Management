@@ -1,4 +1,22 @@
 <?php
+function tr_upper($text)
+{
+    $map = [
+        'i' => 'İ',
+        'ı' => 'I',
+        'ğ' => 'Ğ',
+        'ü' => 'Ü',
+        'ş' => 'Ş',
+        'ö' => 'Ö',
+        'ç' => 'Ç',
+        'â' => 'Â',
+        'î' => 'Î',
+        'û' => 'Û'
+    ];
+
+    $text = strtr($text, $map);
+    return strtoupper($text);
+}
 $isBlogDetail = isset($view) && $view === 'blog_detail';
 ?>
 <!DOCTYPE html>
@@ -24,7 +42,7 @@ $isBlogDetail = isset($view) && $view === 'blog_detail';
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
-    <title><?= htmlspecialchars($title ?? 'Kalkedon', ENT_QUOTES, 'UTF-8') ?></title>
+    <title><?= htmlspecialchars($title ?? 'Kalkedon - Kadıköy bina yönetimi', ENT_QUOTES, 'UTF-8') ?></title>
      <?php if (!$isBlogDetail): ?>
         
         <link rel="stylesheet" href="/public/assets/bootstrap/bootstrap.min.css?v=<?= filemtime('public/assets/bootstrap/bootstrap.min.css') ?>">
@@ -54,7 +72,6 @@ $isBlogDetail = isset($view) && $view === 'blog_detail';
 
 </head>
 <body>
-
     <!-- Header -->
     <?php include __DIR__ . '/../partials/header.php'; ?>
 

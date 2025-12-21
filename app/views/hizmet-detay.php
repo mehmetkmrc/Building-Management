@@ -11,7 +11,7 @@
         <div class="container">
             <div class="single-service-inner-con">
                 <div class="generic-title text-center" data-aos="fade-up" data-aos-duration="700">
-                    <h2><?= strtoupper($hizmet['title']) ?></h2>
+                    <h2><?= tr_upper($hizmet['title']) ?></h2>
                     <p><?= date('d.m.Y', strtotime($hizmet['date'])) ?></p>
                 </div>
 
@@ -28,9 +28,7 @@
                 </div>
 
                 <div class="single-service-consumer-market">
-                    <h2 data-aos="fade-up" data-aos-duration="700">
-                        <?= strtoupper($hizmet['title']) ?>
-                    </h2>
+                   
 
                     <?php foreach (explode("\n\n", trim($hizmet['content'])) as $paragraph): ?>
                         <?php if (trim($paragraph)): ?>
@@ -68,9 +66,9 @@
     <section class="best-experience-section w-100 float-left">
         <div class="container-fluid">
             <div class="register-inner-section" data-aos="fade-up" data-aos-duration="700">
-                <h2>WE’RE DELIVERING THE BEST CUSTOMER EXPERIENCE</h2>
+                <h2>Antik Ruh, Modern Çözümler</h2>
                 <div class="generic-btn">
-                    <a href="contact.html">LET’S GET STARTED</a>
+                    <a href="/contact">BİZE ULAŞIN</a>
                 </div>
             </div>
         </div>

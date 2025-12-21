@@ -63,15 +63,13 @@
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
                                 <a class="dropdown-item" href="/hizmetlerimiz/show/apartman-yonetimi" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900; font-size:14px;">APARTMAN YÖNETİMİ</a>
                                 <a class="dropdown-item" href="/hizmetlerimiz/show/bina-ve-tesis-yonetimi" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">BİNA VE TESİS YÖNETİMİ</a>
-                                <a class="dropdown-item" href="/hizmetlerimiz/show/yonetim-danismanligi" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">YÖNETİM DANIŞMANLIĞI</a>
                                 <a class="dropdown-item" href="/hizmetlerimiz/show/yonetim-planlamasi" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">YÖNETİM PLANLAMASI</a>
                                 <a class="dropdown-item" href="/hizmetlerimiz/show/butce-yonetimi" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">BÜTÇE YÖNETİMİ</a>
-                                <a class="dropdown-item" href="/hizmetlerimiz/show/enerji-danismanligi" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">ENERJİ DANIŞMANLIĞI</a>
+                                <a class="dropdown-item" href="/hizmetlerimiz/show/enerji-yonetimi" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">ENERJİ YÖNETİMİ</a>
                                 <a class="dropdown-item" href="/hizmetlerimiz/show/kentsel-donusum" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">KENTSEL DÖNÜŞÜM</a>
                                 <a class="dropdown-item" href="/hizmetlerimiz/show/denetim-hizmetleri" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">DENETİM HİZMETLERİ</a>
                                 <a class="dropdown-item" href="/hizmetlerimiz/show/teknik-destek" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">TEKNİK DESTEK</a>
                                 <a class="dropdown-item" href="/hizmetlerimiz/show/hukuk-danismanligi" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">HUKUK DANIŞMANLIĞI</a>
-                                <a class="dropdown-item" href="/hizmetlerimiz/show/muhasebe-islemleri" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:900;font-size:14px;">MUHASEBE İŞLEMLERİ</a> 
                             </div>
                         </li>
                         

@@ -130,7 +130,9 @@
                             <img src="public/assets/images/case-icon1.png" alt="case-icon1" loading="lazy">
                         </figure>
                         <span></span>
-                        <h3 class="mb-0">APARTMAN YÖNETİMİ</h3>
+                        <a href="/hizmetlerimiz/show/apartman-yonetimi">
+                            <h3 class="mb-0 fw-bold" >APARTMAN YÖNETİMİ</h3>
+                        </a>
                     </div>
                 </div>
                 <div class="case-main-box position-relative">
@@ -142,7 +144,9 @@
                             <img src="public/assets/images/case-icon2.png" alt="case-icon2" loading="lazy">
                         </figure>
                         <span></span>
-                        <h3 class="mb-0">SİTE YÖNETİMİ</h3>
+                        <a href="/hizmetlerimiz/show/bina-ve-tesis-yonetimi">
+                             <h3 class="mb-0 fw-bold">SİTE YÖNETİMİ</h3>
+                        </a>
                     </div>
                 </div>
                 <div class="case-main-box position-relative">
@@ -154,7 +158,9 @@
                             <img src="public/assets/images/case-icon3.png" alt="case-icon3" loading="lazy">
                         </figure>
                         <span></span>
-                        <h3 class="mb-0">BÜTÇE YÖNETİMİ HİZMETLERİ</h3>
+                        <a href="/hizmetlerimiz/show/butce-yonetimi">
+                            <h3 class="mb-0 fw-bold">BÜTÇE YÖNETİMİ HİZMETLERİ</h3>
+                        </a>
                     </div>
                 </div>
             </div>
