@@ -5,7 +5,7 @@ class HomeController extends Controller
     public function index()
     {
         $data = [
-            'title' => 'Ana Sayfa',
+            'title' => 'Kalkedon - Kadıköy bina yönetimi',
             'message' => 'MVC yapısı başarıyla çalışıyor! 🚀'
         ];
 
