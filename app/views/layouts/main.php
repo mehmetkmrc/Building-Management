@@ -22,6 +22,16 @@ $isBlogDetail = isset($view) && $view === 'blog_detail';
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17621448330">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'AW-17621448330');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Kalkedon Yönetim, Kadıköy, Göztepe, Bostancı ve Fenerbahçe bölgelerinde profesyonel bina ve apartman yönetimi hizmetleri sunar. Hukuki, mali ve teknik yönetimde uzman kadro.">
