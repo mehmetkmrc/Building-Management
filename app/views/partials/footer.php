@@ -46,7 +46,7 @@
                         </li>
                         <li class="position-relative">
                             <i class="fas fa-map-marker-alt"></i> 
-                            Topkapı, Emlak Kredi Blokları F-1 Blok Daire: 11, <br> 34250 Fatih/İstanbul
+                            Fikirtepe, Bahtlı Sk. 46A, <br> 34720 Kadıköy/İstanbul
                         </li>
                     </ul>
                 </div>

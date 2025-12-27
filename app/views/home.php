@@ -479,7 +479,7 @@ Yönetim...
     <!-- PROGRESS COUNTER SECTION END HERE -->
     <!-- MAP SECTION START HERE -->
     <div class="map-section w-100 float-left">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.022065226582!2d28.932859499999996!3d41.0247732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabbd6513043d1%3A0x97054472e3645306!2zS0FMS0VET04gWcOWTkVUxLBNICYgREFOScWeTUFOTElLIEzEsE3EsFRFRCDFnsSwUktFVMSw!5e0!3m2!1str!2str!4v1762557283493!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d752.8999604421331!2d29.05436378614612!3d40.9902424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabbd6513043d1%3A0x97054472e3645306!2zS0FMS0VET04gWcOWTkVUxLBNICYgREFOScWeTUFOTElLIEzEsE3EsFRFRCDFnsSwUktFVMSw!5e0!3m2!1str!2str!4v1766845720276!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <!-- MAP SECTION END HERE -->
    

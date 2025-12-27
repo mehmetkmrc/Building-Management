@@ -88,17 +88,66 @@ return [
         "image" => "public/assets/images/core-service-img4.png",
 		"blogimage1" => "../../public/assets/images/single-service-img.jpg",
 		"blogimage2" => "../../public/assets/images/single-service-sub-img-con.jpg",
-        "title" => "Kentsel Dönüşüm",
+        "title" => "Kentsel Dönüşüm ve İnşaat Süreci Danışmanlık Hizmetlerimiz",
         "summary" => "Yönetim ve Danışmanlık
                       Muhasebe Yönetimi
                       Hukuki süreçler
                       Tadilat ve Teknik Kontroller
                       Sürdürülebilir Yönetim",
-        "content" => "4. İçerik buraya
-		",
-		"content-2" => "Misyonumuz; güvenilir, şeffaf ve kaliteli yönetim anlayışımızla apartman sakinlerinin hayatını kolaylaştırmak, huzurlu ve düzenli bir yaşam alanı sunmaktır. Her yapıda adil, hesap verebilir ve çözüm odaklı bir yönetim modeli uyguluyor; apartman yönetimini bir sorun olmaktan çıkarıp profesyonel bir hizmete dönüştürüyoruz.
+        "content" => "
+            Kentsel dönüşüm ve yeni yapı süreçleri; hukuki, teknik ve mali açıdan uzmanlık gerektiren, hataya yer olmayan süreçlerdir. Şirketimiz; hukuk fakültesi ve mühendislik fakültesi mezunu uzman kadrosu ile kat maliklerinin haklarını korumayı, inşaatın mevzuata, projeye ve sözleşmeye eksiksiz şekilde uygun olarak tamamlanmasını sağlamayı hedefler.
 
-			Kalkedon Yönetim ile apartmanınız güvende, yönetiminiz profesyonel ellerde.",
+            Bünyemizde görev yapan avukatlar, mimarlar ve inşaat mühendisleri, sürecin her aşamasında birlikte çalışarak hem hukuki hem de teknik denetimi eş zamanlı olarak yürütür. Böylece kat maliklerinin sonradan telafisi mümkün olmayan hak ve değer kayıplarının önüne geçilir.
+
+            A. Ruhsat Alınmadan Önce Sunulan Danışmanlık Hizmetlerimiz
+
+            Müteahhit ile yapılan sözleşmenin; hukuk fakültesi mezunu uzmanlarımız tarafından hukuki, mühendislik fakültesi mezunu teknik ekibimiz tarafından ise teknik açıdan detaylı biçimde incelenmesi. Teklif, avan proje ve sözleşme eklerinde yer alan emsal içi ve emsal dışı alanların, sözleşmede belirlenen paylaşım oranlarına uygunluğunun denetlenmesi ve kat malikleri aleyhine doğabilecek risklerin önlenmesi.
+
+            Avan proje ile onaylı mimari ve statik projeler arasında oluşabilecek farklılıkların tespit edilerek kat maliklerine raporlanması; gerekli düzeltmelerin mimari ve statik açıdan teknik uygunluğunun kontrol edilmesi.
+
+            B. İnşaat Sürecinde Sunulan Danışmanlık ve Denetim Hizmetlerimiz
+
+            İnşaat sürecinde yapının; müteahhit ile imzalanan sözleşmeye, yapı ruhsatına ve ruhsat eki projelere uygun olarak inşa edilmesini sağlamak amacıyla aşağıdaki hizmetler sunulmaktadır:
+
+            Statik, betonarme, elektrik ve sıhhi tesisat imalatlarının, mühendislik fakültesi mezunu teknik ekibimiz tarafından yerinde denetlenmesi.
+
+            Temel aşamasında ve kat betonları dökülürken, sözleşmede belirlenen paylaşım ve arsa payı oranlarının doğrulanması; kat malikleri aleyhine bir durum tespit edilmesi halinde, hukuk ve teknik ekiplerin birlikte değerlendirme yaparak maliklerin bilgilendirilmesi.
+
+            Kaba inşaat sürecinde kalıp, donatı ve beton döküm süreçlerinin teknik şartname ve mühendislik esaslarına uygunluğunun denetlenmesi.
+
+            Sıva altında kalan ve sonradan kontrolü mümkün olmayan tüm tesisat ve altyapı imalatlarının; sözleşmede kararlaştırılan kalite, marka ve standartlara uygunluğunun denetlenmesi.
+
+            Temel, balkon, dış cephe ve çatı uygulamalarında kullanılan yalıtım malzemelerinin; proje, teknik şartname ve mevzuata uygunluğunun kontrol edilmesi.
+
+            Seramik, vitrifiye, mutfak dolapları, kapılar, doğramalar ve diğer ince yapı imalatlarının; sözleşmede belirtilen marka ve teknik özelliklere uygun olarak, doğru işçilikle yapılıp yapılmadığının denetlenmesi.
+
+            Yalıtım detayları, dilatasyonlar, çatı–dere birleşimleri, tesisat çıkış noktaları, denizlik ve panjur montajları, bahçe ve çevre düzenlemeleri, otopark havalandırması ile temiz ve pis su bağlantıları gibi kritik uygulama detaylarının kontrol edilmesi.
+
+            İpotek kaldırma süreçlerinde, her aşamada tamamlanan imalatların maddi karşılığının net olarak hesaplanması ve kat maliklerine şeffaf şekilde bildirilmesi.
+
+            İmar mevzuatına, resmî şartnamelere ve emsal hesaplarına aykırı olup iskan alınmasını engelleyebilecek uygulamaların tespiti ve önlenmesi.
+
+            Denetim ve Raporlama Sürecimiz
+
+            Denetimler; uzun yıllardır şantiye şefliği, kontrol mühendisliği, proje ve yapı denetimi, bilirkişilik ve iş güvenliği alanlarında deneyime sahip bir mimar ve bir inşaat mühendisinden oluşan teknik ekip tarafından yürütülür.
+
+            Şantiye ziyaretleri haftada en az iki kez, imalatın yoğun olduğu dönemlerde ise gerekli sıklıkta gerçekleştirilir.
+
+            Gerekli görülen durumlarda belediyeler ve diğer resmî kurumlar nezdinde takip ve doğrulama yapılır.
+
+            Kat maliklerine aylık düzenli denetim raporu, ihtiyaç halinde ise ara raporlar sunulur.
+		",
+		"content-2" => "
+            Neden Biz?
+
+            Hukuk + Mühendislik disiplinlerini aynı çatı altında buluşturan yapı
+
+            Kat maliklerinin haklarını merkeze alan danışmanlık anlayışı
+
+            Şeffaf raporlama ve düzenli saha denetimi
+
+            Kentsel dönüşüm ve inşaat süreçlerinde uçtan uca profesyonel destek
+        ",
         "date" => "16-12-2025"
     ],
 	[
