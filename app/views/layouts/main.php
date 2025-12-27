@@ -310,5 +310,24 @@ document.addEventListener("DOMContentLoaded", function () {
 
 });
 </script>
+
+<script>
+  // Helper function to delay opening a URL until a gtag event is sent.
+  function gtagSendEvent(url) {
+    var callback = function () {
+      if (typeof url === 'string') {
+        window.location = url;
+      }
+    };
+    gtag('event', 'ads_conversion_Form_1', {
+      'event_callback': callback,
+      'event_timeout': 2000
+    });
+    return false;
+  }
+</script>
+</body>
+</html>
+
 </body>
 </html>
