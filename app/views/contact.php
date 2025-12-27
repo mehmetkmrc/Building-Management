@@ -54,7 +54,7 @@
                         <img src="public/assets/images/location-img.png" alt="location-img" loading="lazy">
                     </figure>
                     <span>ADRES</span>
-                    <p class="mb-0">Fikirtepe, Bahtlı Sk. 46A,<br> 34720 Kadıköy/İstanbul</p>
+                    <p class="mb-0">Pırlanta Residence, Fikirtepe, Bahtlı Sk. 46A,<br> 34720 Kadıköy/İstanbul</p>
                 </div>
             </div>
         </div>

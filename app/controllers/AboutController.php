@@ -5,7 +5,7 @@ class AboutController extends Controller
     public function index()
     {
         $data = [
-            'title' => 'About',
+            'title' => 'Hakkımızda',
             'message' => 'Hakkında sayfasına hoş geldiniz! 📝'
         ];
 

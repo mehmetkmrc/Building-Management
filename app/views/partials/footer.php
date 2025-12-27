@@ -46,7 +46,7 @@
                         </li>
                         <li class="position-relative">
                             <i class="fas fa-map-marker-alt"></i> 
-                            Fikirtepe, Bahtlı Sk. 46A, <br> 34720 Kadıköy/İstanbul
+                            Pırlanta Residence, Fikirtepe, Bahtlı Sk. 46A, <br> 34720 Kadıköy/İstanbul
                         </li>
                     </ul>
                 </div>
