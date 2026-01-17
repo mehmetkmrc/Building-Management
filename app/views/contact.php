@@ -54,7 +54,7 @@
                         <img src="public/assets/images/location-img.png" alt="location-img" loading="lazy">
                     </figure>
                     <span>ADRES</span>
-                    <p class="mb-0">Pırlanta Residence, Fikirtepe, Bahtlı Sk. 46A,<br> 34720 Kadıköy/İstanbul</p>
+                    <p class="mb-0">Suadiye, Bağdat Caddesi, Mücahit Sk. Ark399 Plaza, <br> 34740 Kadıköy/İstanbul</p>
                 </div>
             </div>
         </div>
@@ -92,7 +92,7 @@
 
         <!-- HARİTA BÖLÜMÜ -->
         <div class="map-section w-100 float-left">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d752.8999604421331!2d29.05436378614612!3d40.9902424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabbd6513043d1%3A0x97054472e3645306!2zS0FMS0VET04gWcOWTkVUxLBNICYgREFOScWeTUFOTElLIEzEsE3EsFRFRCDFnsSwUktFVMSw!5e0!3m2!1str!2str!4v1766845720276!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d223.93498187645451!2d29.079298767601227!3d40.96181380677427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cabbd6513043d1%3A0x97054472e3645306!2zS0FMS0VET04gWcOWTkVUxLBNICYgREFOScWeTUFOTElLIEzEsE3EsFRFRCDFnsSwUktFVMSw!5e0!3m2!1str!2str!4v1768646851944!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <!-- HARİTA BÖLÜMÜ BİTTİ -->
     </div>

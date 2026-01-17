@@ -46,7 +46,12 @@
                         </li>
                         <li class="position-relative">
                             <i class="fas fa-map-marker-alt"></i> 
-                            Pırlanta Residence, Fikirtepe, Bahtlı Sk. 46A, <br> 34720 Kadıköy/İstanbul
+                            <a href="https://maps.app.goo.gl/EZ8ftxYXr31Bw67X7" >Suadiye, Bağdat Caddesi, Mücahit Sk. Ark399 Plaza, <br> 34740 Kadıköy/İstanbul</a>
+                        </li>
+                        <li class="position-relative">
+                            Vergi Dairesi: Fatih, <br> 
+                            Vergi Numarası: 4931511500 <br>
+                            Mersis No: 0493151150000001
                         </li>
                     </ul>
                 </div>
