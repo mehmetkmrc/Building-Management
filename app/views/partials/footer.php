@@ -38,8 +38,15 @@
                     <ul class="list-unstyled">
                         <li class="position-relative">
                             <i class="fas fa-phone-alt"></i> 
-                            <a href="tel:+905552233434">0555 223 34 34</a>
+                            <div>
+                                <a href="tel:+908503468315">0850 346 83 15</a>
+                            </div>
+                            <div>
+                                <a href="tel:+905552233434">0555 223 34 34</a>
+                            </div>
+            
                         </li>
+                        
                         <li class="position-relative">
                             <i class="fas fa-envelope"></i> 
                             <a href="mailto:Info@kalkedonyonetim.com">Info@kalkedonyonetim.com</a>
@@ -49,7 +56,7 @@
                             <a href="https://maps.app.goo.gl/EZ8ftxYXr31Bw67X7" >Suadiye, Bağdat Caddesi, Mücahit Sk. Ark399 Plaza, <br> 34740 Kadıköy/İstanbul</a>
                         </li>
                         <li class="position-relative">
-                            Vergi Dairesi: Fatih, <br> 
+                            Vergi Dairesi: Erenköy, <br> 
                             Vergi Numarası: 4931511500 <br>
                             Mersis No: 0493151150000001
                         </li>

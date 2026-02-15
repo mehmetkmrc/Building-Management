@@ -123,7 +123,7 @@
             <div class="cases-inner-section" data-aos="fade-up" data-aos-duration="700">
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/editlenecek-apartman-yonetimi1.jpg" alt="case-img1" loading="lazy">
+                        <img src="public/assets/images/apartman-yonetimi1.jpg" alt="case-img1" loading="lazy">
                     </figure>
                     <div class="case-text-box">
                         <figure>
@@ -137,7 +137,7 @@
                 </div>
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/editlenecek-site-yonetimi1.jpg" alt="case-img2" loading="lazy">
+                        <img src="public/assets/images/site-yonetimi1.jpg" alt="case-img2" loading="lazy">
                     </figure>
                     <div class="case-text-box">
                         <figure>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/case-img1.jpg" alt="case-img3" loading="lazy">
+                        <img src="public/assets/images/butce-yonetimi.jpg" alt="case-img3" loading="lazy">
                     </figure>
                     <div class="case-text-box">
                         <figure>

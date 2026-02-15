@@ -101,6 +101,7 @@
                         <a href="tel:+905552233434">
                             <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 5px;">
     <span style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;font-size: 20px;">Bize Ulaşın</span>
+    <a href="tel:+908503468315" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;">0850 346 83 15</a>
     <a href="tel:+905552233434" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;">0555 223 34 34</a>
     <a href="mailto:info@kalkedonyonetim.com" style="color: #3B2B1B; font-family: 'Cinzel', serif; font-weight:800;">info@kalkedonyonetim.com</a>
 </div>

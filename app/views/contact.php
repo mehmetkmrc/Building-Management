@@ -26,8 +26,15 @@
                         <img src="public/assets/images/phone-img.png" alt="phone-img" loading="lazy">
                     </figure>
                     <span>7/24 ARAYIN</span>
-                    <a href="tel:+905552233434">0555 223 34 34</a>
+                    <div>
+                        <a href="tel:+908503468315">0850 346 83 15</a>
+                    </div>
+                    <br>
+                    <div>
+                        <a href="tel:+905552233434">0555 223 34 34</a>
+                    </div>
                 </div>
+                
             </div>
 
             <!-- E-posta kutusu -->
