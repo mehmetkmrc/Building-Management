@@ -123,9 +123,12 @@
             <div class="cases-inner-section" data-aos="fade-up" data-aos-duration="700">
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/apartman-yonetimi1.jpg" alt="case-img1" loading="lazy">
+                        <a href="/hizmetlerimiz/show/apartman-yonetimi">
+                                <img src="public/assets/images/apartmanyonetim2.png" style="height: 400px;" alt="case-img1" loading="lazy">
+                        </a>
+                        
                     </figure>
-                    <div class="case-text-box">
+                    <!-- <div class="case-text-box">
                         <figure>
                             <img src="public/assets/images/case-icon1.png" alt="case-icon1" loading="lazy">
                         </figure>
@@ -133,13 +136,16 @@
                         <a href="/hizmetlerimiz/show/apartman-yonetimi">
                             <h3 class="mb-0 fw-bold" >APARTMAN YÖNETİMİ</h3>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/site-yonetimi1.jpg" alt="case-img2" loading="lazy">
+                        <a href="/hizmetlerimiz/show/bina-ve-tesis-yonetimi">
+                            <img src="public/assets/images/siteyonetim2.png" style="height: 400px;" alt="case-img2" loading="lazy">
+                        </a>
+                        
                     </figure>
-                    <div class="case-text-box">
+                    <!-- <div class="case-text-box">
                         <figure>
                             <img src="public/assets/images/case-icon2.png" alt="case-icon2" loading="lazy">
                         </figure>
@@ -147,13 +153,15 @@
                         <a href="/hizmetlerimiz/show/bina-ve-tesis-yonetimi">
                              <h3 class="mb-0 fw-bold">SİTE YÖNETİMİ</h3>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="case-main-box position-relative">
                     <figure class="mb-0">
-                        <img src="public/assets/images/butce-yonetimi.jpg" alt="case-img3" loading="lazy">
+                        <a href="/hizmetlerimiz/show/butce-yonetimi">
+                            <img src="public/assets/images/butceyonetim2.png" style="height: 400px;" alt="case-img3" loading="lazy">
+                        </a>  
                     </figure>
-                    <div class="case-text-box">
+                    <!-- <div class="case-text-box">
                         <figure>
                             <img src="public/assets/images/case-icon3.png" alt="case-icon3" loading="lazy">
                         </figure>
@@ -161,7 +169,7 @@
                         <a href="/hizmetlerimiz/show/butce-yonetimi">
                             <h3 class="mb-0 fw-bold">BÜTÇE YÖNETİMİ HİZMETLERİ</h3>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
