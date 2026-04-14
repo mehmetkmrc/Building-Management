@@ -43,3 +43,6 @@ building-management/
 ├──router.php
 |
 └──index.php
+
+
+localde run etmek için:php -S localhost:8000 router.php

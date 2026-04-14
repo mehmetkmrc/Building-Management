@@ -433,6 +433,163 @@ return [
 		",
         "date" => "2025-02-05"
     ],
-    
+	[
+        "slug" => "apartman-yoneticisi-nasil-secilir",
+        "image" => "public/assets/images/apartman-yoneticisi.png",
+		"blogimage1" => "../../public/assets/images/apartman-yoneticisi.png",
+		"blogimage2" => "../../public/assets/images/apartman-yoneticisi.png",
+        "title" => "Apartman Yöneticisi Nasıl Seçilir?",
+        "summary" => "Apartman ve site yaşamının düzenli, şeffaf ve sorunsuz şekilde sürdürülebilmesi için apartman yöneticisi önemli bir rol üstlenir. Peki apartman yöneticisi kim tarafından, nasıl ve hangi çoğunlukla seçilir? Kat Mülkiyeti Kanunu bu konuyu açık şekilde düzenlemiştir.",
+        "content" => "Kat Mülkiyeti Kanunu’na Göre Yönetici Atama Süreci
+			Apartman ve site yaşamının düzenli, şeffaf ve sorunsuz şekilde sürdürülebilmesi için apartman yöneticisi önemli bir rol üstlenir. Peki apartman yöneticisi kim tarafından, nasıl ve hangi çoğunlukla seçilir? Kat Mülkiyeti Kanunu bu konuyu açık şekilde düzenlemiştir.
+			Bu yazımızda, Kat Mülkiyeti Kanunu’nun 34 ve 35. maddeleri çerçevesinde apartman yöneticisinin seçilme usulünü ve görevlerini özetliyoruz.
+			________________________________________
+			Apartman Yöneticisi Kimdir?
+			Kat Mülkiyeti Kanunu’na göre apartman yöneticisi;
+			•	Kat maliklerinin kendi aralarından veya
+			•	Dışarıdan (profesyonel yönetici / yönetim şirketi)
+			seçebileceği gerçek veya tüzel kişidir.
+			Yönetim bir kişiye verildiğinde “yönetici”, üç kişiye verildiğinde ise “yönetim kurulu” olarak adlandırılır.
+			________________________________________
+			Apartman Yöneticisi Seçmek Zorunlu mudur?
+			📌 Evet, bazı durumlarda zorunludur.
+			•	Anagayrimenkulde 8 veya daha fazla bağımsız bölüm varsa, yönetici atanması kanunen mecburidir.
+			•	Tüm bağımsız bölümler tek kişiye aitse, malik kendiliğinden yönetici sayılır.
+			________________________________________
+			Apartman Yöneticisi Nasıl Seçilir?
+			Apartman yöneticisi, kat malikleri kurulunda yapılan oylama ile seçilir.
+			Gerekli Çoğunluk:
+			Yönetici;
+			•	Kat maliklerinin sayı çoğunluğu
+			•	Arsa payı çoğunluğu
+			birlikte sağlanarak atanır.
+			👉 Yani sadece kişi sayısı değil, arsa payı da dikkate alınır.
+			Görev Süresi:
+			•	Yönetici her yıl, kat malikleri kurulunun olağan yıllık toplantısında yeniden seçilir.
+			•	Mevcut yönetici tekrar seçilebilir.
+			________________________________________
+			Yönetici Seçilemezse Ne Olur?
+			Eğer kat malikleri;
+			•	Toplanamazsa veya
+			•	Yönetici atanması konusunda anlaşamazsa
+			📌 Sulh Hukuk Mahkemesi, kat maliklerinden birinin başvurusu üzerine apartmana mahkeme tarafından yönetici atar.
+			Mahkemece atanan yönetici:
+			•	Kat maliklerince seçilen yönetici ile aynı yetkilere sahiptir
+			•	Kat maliklerine karşı sorumludur
+			•	6 ay geçmeden kat malikleri tarafından değiştirilemez
+			(Ancak haklı bir sebep varsa, yine mahkeme izniyle değiştirilebilir)
+			________________________________________
+			Yönetici ile Sözleşme ve Teminat
+			Yönetici atanırken:
+			•	Kendisiyle yazılı bir sözleşme yapılabilir
+			•	Bu sözleşmede teminat gösterme şartı konulabilir
+			Sözleşmede yer almasa bile, haklı bir sebep doğarsa, kat malikleri kurulu yöneticiden teminat talep edebilir.
+			________________________________________
 
+
+
+
+			Yöneticinin Bilgilerinin Asılması Zorunluluğu
+			📌 Kat Mülkiyeti Kanunu gereği;
+			•	Yöneticinin adı-soyadı
+			•	İş adresi ve ev adresi
+			apartman girişinde görülebilecek bir yere asılmak zorundadır.
+			⚠️ Bu yükümlülük yerine getirilmezse, yöneticiye veya yönetim kurulu üyelerinin her birine idarî para cezası uygulanabilir.
+			________________________________________
+			Apartman Yöneticisinin Görevleri Nelerdir?
+			Kat Mülkiyeti Kanunu’nun 35. maddesine göre yöneticinin başlıca görevleri şunlardır:
+			•	Kat malikleri kurulu kararlarını uygulamak
+			•	Binanın bakım, onarım ve korunmasını sağlamak
+			•	Ortak alanların sigortalanmasını yaptırmak
+			•	Aidat ve avansları toplamak
+			•	Apartman giderlerini ödemek
+			•	Gerekli tebligatları kabul etmek
+			•	Aidat borcunu ödemeyen kat maliklerine karşı icra ve dava açmak
+			•	Apartman adına banka hesabı açmak
+			•	Kat malikleri kurulunu toplantıya çağırmak
+			•	Asansörlerin aylık bakım ve yıllık kontrollerini yaptırmak
+			📌 Yönetici atanmadığı durumlarda, bu görevlerden kat malikleri müştereken sorumlu olur.
+			________________________________________
+			Profesyonel Yönetim Neden Önemlidir?
+			Günümüzde artan mevzuat yükü, teknik sorumluluklar ve mali süreçler nedeniyle birçok apartman ve site, profesyonel bina yönetim şirketleri ile çalışmayı tercih etmektedir.
+			Profesyonel yönetim sayesinde:
+			•	Hukuka uygun yönetim
+			•	Şeffaf mali süreçler
+			•	Düzenli bakım ve denetim
+			•	Kat malikleri arasında huzurlu bir yaşam
+			sağlanır.
+			________________________________________
+			Sonuç:
+			Apartman yöneticisinin doğru şekilde seçilmesi, hem yasal yükümlülüklerin yerine getirilmesi hem de bina yaşamının sağlıklı yürütülmesi açısından büyük önem taşır. Kat Mülkiyeti Kanunu bu süreci açıkça düzenlemiş olup, gerektiğinde profesyonel destek alınması ciddi avantaj sağlar.
+
+
+		",
+        "date" => "2026-04-14"
+    ],
+	[
+        "slug" => "tek-bloklu-ve-tek-parselli-yapilarda-yonetici",
+        "image" => "public/assets/images/tek-bloklu-ve-parselli-yapilar.png",
+		"blogimage1" => "../../public/assets/images/tek-bloklu-ve-parselli-yapilar.png",
+		"blogimage2" => "../../public/assets/images/tek-bloklu-ve-parselli-yapilar.png",
+        "title" => "Tek Bloklu ve Tek Parselli Yapılarda Yönetici Seçiminde Yeter Sayısı Nasıl Hesaplanır?",
+        "summary" => "Tek bloklu ve tek parselli yapılarda apartman yönetimi, tek bir ana gayrimenkul üzerinden yürütülür. Bu tür yapılarda ayrı blok veya site genel kurulları bulunmaz; tüm kararlar tek bir kat malikleri genel kurulunda alınır.",
+        "content" => "Tek Bloklu ve Tek Parselli Yapılarda Yönetici Seçiminde Yeter Sayısı Nasıl Hesaplanır?
+			Tek bloklu ve tek parselli yapılarda apartman yönetimi, tek bir ana gayrimenkul üzerinden yürütülür. Bu tür yapılarda ayrı blok veya site genel kurulları bulunmaz; tüm kararlar tek bir kat malikleri genel kurulunda alınır.
+			Bu genel kurulda;
+			•	Kat malikleri veya
+			•	Usulüne uygun vekâletnameye sahip vekiller
+			oy kullanma hakkına sahiptir.
+			________________________________________
+			Yönetici Seçiminde Aranan Yeter Sayısı
+			Yönetici (ve denetçi) seçimi yapılabilmesi için;
+			📌 Ana gayrimenkuldeki tüm bağımsız bölümlere ait maliklerin,
+			•	Sayı çoğunluğunun ve
+			•	Arsa payı çoğunluğunun
+			birlikte sağlanması gerekir.
+			⚠️ Burada dikkat edilmesi gereken en önemli husus; hesabın toplantıya katılanlar üzerinden değil, ana gayrimenkuldeki tüm malik sayısı üzerinden yapılmasıdır.
+			________________________________________
+			Yönetici Seçimi Hesaplanırken Dikkat Edilecek Temel Noktalar
+			________________________________________
+			1.Tüm Malikler Üzerinden Hesaplama Yapılır
+			Yeter sayı;
+			•	Sadece toplantıya katılan maliklere göre değil
+			•	Ana gayrimenkulde kayıtlı tüm maliklerin toplamı üzerinden hesaplanır.
+			Bu nedenle toplantıya katılım düşükse, yönetici seçimi yapılamayabilir.
+			________________________________________
+			2.Önce Sayı Çoğunluğu, Sonra Arsa Payı Çoğunluğu Aranır
+			Yönetici seçimi aşamasında;
+			1.	Öncelikle malik sayısı bakımından çoğunluk sağlanmalıdır
+			2.	Bu çoğunluk sağlandıktan sonra, arsa payı çoğunluğu kontrol edilir
+			İki şart birlikte gerçekleşmeden yönetici (ve denetçi) seçimi hukuken geçerli olmaz.
+			________________________________________
+			3.Yönetici Adayının Kendi Oyları Hesaba Katılmaz
+			Oy kullanan bir malik;
+			•	Aynı zamanda yönetici veya denetçi adayı ise
+			•	Kendi bağımsız bölümlerine ait oylar hesaplamaya dahil edilmez
+			📌 Ancak bu malik;
+			•	Başka kat maliklerinden vekâlet almışsa,
+			•	Vekâleten kullandığı oylar geçerli kabul edilir
+			Bu durum, hukuken “güven telakkisi” olarak değerlendirilir.
+			________________________________________
+
+
+			4.Hazirun Listesinin Usulüne Uygun Düzenlenmesi Şarttır
+			Toplantının geçerliliği ve ileride çıkabilecek uyuşmazlıkların önlenmesi için hazirun listesi eksiksiz ve doğru şekilde hazırlanmalıdır.
+			Hazirun listesinde aşağıdaki sütunlar mutlaka yer almalıdır:
+			•	Bağımsız bölüm (blok/daire) numarası
+			•	Bağımsız bölüm arsa payı
+			•	Malik adı ve soyadı
+			•	Oy kullanım şekli (asaleten / vekâleten)
+			•	Toplantıya katılan kişinin adı soyadı
+			•	Islak imza alanı
+			📌 Bu liste, alınan kararların hukuki dayanağı niteliğindedir.
+			________________________________________
+			Sonuç
+			Tek bloklu ve tek parselli yapılarda yönetici seçimi, çoğu zaman yanlış yeter sayı hesapları nedeniyle geçersiz hâle gelmektedir. Malik sayısı, arsa payı ve oy kullanım şeklinin doğru değerlendirilmesi; toplantıların sağlıklı, kararların ise hukuka uygun olmasını sağlar.
+			Profesyonel bina yönetimi ve doğru toplantı organizasyonu, bu tür hataların önüne geçmenin en etkili yoludur.
+
+
+		",
+        "date" => "2026-04-14"
+    ],
 ];
